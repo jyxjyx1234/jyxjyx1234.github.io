@@ -10,9 +10,9 @@ title: "AI补丁列表"
 permalink: /all_plugins/
 ---
 ''')
-ai_plugins_list_md.write("# AI补丁列表\n\n")
+#ai_plugins_list_md.write("# AI补丁列表\n\n")
 
 for f in files:
     encoded_filename = quote(f)
-    text = f"[{f}](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/{encoded_filename})\n"
+    text = f"[{f}](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/{encoded_filename})\n\n \n\n"
     ai_plugins_list_md.write(text)
