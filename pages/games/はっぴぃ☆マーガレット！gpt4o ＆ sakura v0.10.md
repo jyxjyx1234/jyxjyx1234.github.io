@@ -1,0 +1,18 @@
+---
+title: "はっぴぃ☆マーガレット！gpt4o ＆ sakura v0.10"
+permalink: /%E3%81%AF%E3%81%A3%E3%81%B4%E3%81%83%E2%98%86%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%EF%BC%81gpt4o%20%EF%BC%86%20sakura%20v0.10
+---
+
+
+# はっぴぃ☆マーガレット！gpt4o ＆ sakura v0.10
+
+## 机翻补丁文件：
+
+[はっぴぃ☆マーガレット！gpt4o.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E3%81%AF%E3%81%A3%E3%81%B4%E3%81%83%E2%98%86%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%EF%BC%81gpt4o.rar)
+
+ 
+
+[はっぴぃ☆マーガレット！Sakura v0.10.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E3%81%AF%E3%81%A3%E3%81%B4%E3%81%83%E2%98%86%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%EF%BC%81Sakura%20v0.10.rar)
+
+ 
+

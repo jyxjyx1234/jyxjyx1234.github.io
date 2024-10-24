@@ -1,0 +1,14 @@
+---
+title: "月光に濡れる教室で、僕は。gpt-4o"
+permalink: /%E6%9C%88%E5%85%89%E3%81%AB%E6%BF%A1%E3%82%8C%E3%82%8B%E6%95%99%E5%AE%A4%E3%81%A7%E3%80%81%E5%83%95%E3%81%AF%E3%80%82gpt-4o
+---
+
+
+# 月光に濡れる教室で、僕は。gpt-4o
+
+## 机翻补丁文件：
+
+[月光に濡れる教室で、僕は。gpt-4o.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E6%9C%88%E5%85%89%E3%81%AB%E6%BF%A1%E3%82%8C%E3%82%8B%E6%95%99%E5%AE%A4%E3%81%A7%E3%80%81%E5%83%95%E3%81%AF%E3%80%82gpt-4o.rar)
+
+ 
+

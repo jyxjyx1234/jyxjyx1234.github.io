@@ -1,0 +1,14 @@
+---
+title: "露出人形～恥ずかしさに震える少女～claude-3-haiku"
+permalink: /%E9%9C%B2%E5%87%BA%E4%BA%BA%E5%BD%A2%EF%BD%9E%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%95%E3%81%AB%E9%9C%87%E3%81%88%E3%82%8B%E5%B0%91%E5%A5%B3%EF%BD%9Eclaude-3-haiku
+---
+
+
+# 露出人形～恥ずかしさに震える少女～claude-3-haiku
+
+## 机翻补丁文件：
+
+[露出人形～恥ずかしさに震える少女～claude-3-haiku.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E9%9C%B2%E5%87%BA%E4%BA%BA%E5%BD%A2%EF%BD%9E%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%95%E3%81%AB%E9%9C%87%E3%81%88%E3%82%8B%E5%B0%91%E5%A5%B3%EF%BD%9Eclaude-3-haiku.rar)
+
+ 
+

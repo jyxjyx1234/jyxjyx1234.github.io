@@ -1,0 +1,14 @@
+---
+title: "りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k"
+permalink: /%E3%82%8A%E3%81%A8%E3%82%8B%E2%80%A0%E3%81%B3%E3%81%A3%E3%81%A1%20%EF%BD%9ELittle%20Bitch%20Girls%20in%20Hog%20Farm%EF%BD%9Estep-2-16k
+---
+
+
+# りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k
+
+## 机翻补丁文件：
+
+[りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E3%82%8A%E3%81%A8%E3%82%8B%E2%80%A0%E3%81%B3%E3%81%A3%E3%81%A1%20%EF%BD%9ELittle%20Bitch%20Girls%20in%20Hog%20Farm%EF%BD%9Estep-2-16k.rar)
+
+ 
+
