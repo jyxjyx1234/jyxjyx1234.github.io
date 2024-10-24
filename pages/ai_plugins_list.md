@@ -3,275 +3,275 @@ layout: page
 title: "AI补丁列表"
 permalink: /all_plugins/
 ---
-## [Angel Wish～放課後の召使いにチュッ！～ gpt3.5.json](/games/1)
+## [Angel Wish～放課後の召使いにチュッ！～ gpt3.5](/games/1)
 
  
 
-## [BLOOD ROYAL gpt-4o.json](/games/2)
+## [BLOOD ROYAL gpt-4o](/games/68)
 
  
 
-## [Color of White claude-3-5-sonnet.json](/games/3)
+## [Color of White claude-3-5-sonnet](/games/29)
 
  
 
-## [CRAVE×10 gpt4o.json](/games/4)
+## [CRAVE×10 gpt4o](/games/63)
 
  
 
-## [DESIRE remaster a ver.Sakura.json](/games/5)
+## [DESIRE remaster a ver.Sakura](/games/6)
 
  
 
-## [FairChild gpt4o.json](/games/6)
+## [FairChild gpt4o](/games/60)
 
  
 
-## [Guardian☆Place ～ドエスな妹と3人の嫁～claude-3-haiku.json](/games/7)
+## [Guardian☆Place ～ドエスな妹と3人の嫁～claude-3-haiku](/games/32)
 
  
 
-## [Let’s裸GO！ ぼくラの自由研究Claude-3-5-sonnet.json](/games/8)
+## [Let’s裸GO！ ぼくラの自由研究Claude-3-5-sonnet](/games/46)
 
  
 
-## [One☆らばー!!～ミクちゃんの恋人～claude-3-5-sonnet.json](/games/9)
+## [One☆らばー!!～ミクちゃんの恋人～claude-3-5-sonnet](/games/12)
 
  
 
-## [Primary ～Magical★Trouble★Scramble～Claude-3-haiku.json](/games/10)
+## [Primary ～Magical★Trouble★Scramble～Claude-3-haiku](/games/33)
 
  
 
-## [Promise ～プロミス～claude-3-5-sonnet.json](/games/11)
+## [Promise ～プロミス～claude-3-5-sonnet](/games/62)
 
  
 
-## [Rain memory－あまやどり－sakura.json](/games/12)
+## [Rain memory－あまやどり－sakura](/games/8)
 
  
 
-## [S.I.S.T.A.R.SKISS OF TRINITY Claude-3-haiku.json](/games/13)
+## [S.I.S.T.A.R.SKISS OF TRINITY Claude-3-haiku](/games/28)
 
  
 
-## [TRUE BLUE claude-3-5-sonnet.json](/games/14)
+## [TRUE BLUE claude-3-5-sonnet](/games/37)
 
  
 
-## [Unbalance ～アンバランス～gpt-4o.json](/games/15)
+## [Unbalance ～アンバランス～gpt-4o](/games/67)
 
  
 
-## [おしえて☆エッチなレシピ -アナタとワタシのあま～いせいかつ！-claude-3-haiku.json](/games/16)
+## [おしえて☆エッチなレシピ -アナタとワタシのあま～いせいかつ！-claude-3-haiku](/games/35)
 
  
 
-## [お姉ちゃんは串刺し公! ～アタシの杭で貫いてあげる～Sakura.json](/games/17)
+## [お姉ちゃんは串刺し公! ～アタシの杭で貫いてあげる～Sakura](/games/5)
 
  
 
-## [こいなか -小田舎で初恋×中出しセクシャルライフ-SAKURA.json](/games/18)
+## [こいなか -小田舎で初恋×中出しセクシャルライフ-SAKURA](/games/10)
 
  
 
-## [こいなかlovers Sakura-14b.json](/games/19)
+## [こいなかlovers Sakura-14b](/games/19)
 
  
 
-## [なつくもゆるる 姬佳追加场景补丁及Sakura32b翻译.json](/games/20)
+## [なつくもゆるる 姬佳追加场景补丁及Sakura32b翻译](/games/16)
 
  
 
-## [なつくもゆるる 紫穂追加场景补丁及Sakura翻译补丁.json](/games/21)
+## [なつくもゆるる 紫穂追加场景补丁及Sakura翻译补丁](/games/7)
 
  
 
-## [にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku.json](/games/22)
+## [にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku](/games/31)
 
  
 
-## [はっぴぃ☆マーガレット！gpt4o.json](/games/23)
+## [はっぴぃ☆マーガレット！gpt4o](/games/3)
 
  
 
-## [ふたごえっち Step-2-16k.json](/games/24)
+## [ふたごえっち Step-2-16k](/games/53)
 
  
 
-## [ふたなりカノンちゃんClaude-3-5-sonnet.json](/games/25)
+## [ふたなりカノンちゃんClaude-3-5-sonnet](/games/21)
 
  
 
-## [ふたりはドM委員長！claude-3-haiku.json](/games/26)
+## [ふたりはドM委員長！claude-3-haiku](/games/52)
 
  
 
-## [よついろパッショナート！claude-3-haiku.json](/games/27)
+## [よついろパッショナート！claude-3-haiku](/games/34)
 
  
 
-## [らぶらぼ～調教なんて興味のなかった俺と彼女の放課後SMラボラトリー～Sakura.json](/games/28)
+## [らぶらぼ～調教なんて興味のなかった俺と彼女の放課後SMラボラトリー～Sakura](/games/9)
 
  
 
-## [りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k.json](/games/29)
+## [りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k](/games/54)
 
  
 
-## [ウィズ アニバーサリィー☆COMPLETE！gpt4.json](/games/30)
+## [ウィズ アニバーサリィー☆COMPLETE！gpt4](/games/2)
 
  
 
-## [キスよりさきに恋よりはやくsakura32b.json](/games/31)
+## [キスよりさきに恋よりはやくsakura32b](/games/36)
 
  
 
-## [サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura.json](/games/32)
+## [サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura](/games/17)
 
  
 
-## [サマナープリンセス アルテミナ3 ～二人の有紗～sakura.json](/games/33)
+## [サマナープリンセス アルテミナ3 ～二人の有紗～sakura](/games/18)
 
  
 
-## [ピアノ ～紅楼館の隷嬢達～claude-3-5-sonnet.json](/games/34)
+## [ピアノ ～紅楼館の隷嬢達～claude-3-5-sonnet](/games/44)
 
  
 
-## [プラチナウィンド～星の詩が聞こえたら～Claude-3-haiku.json](/games/35)
+## [プラチナウィンド～星の詩が聞こえたら～Claude-3-haiku](/games/43)
 
  
 
-## [プリズム・ハート step-2-16k.json](/games/36)
+## [プリズム・ハート step-2-16k](/games/55)
 
  
 
-## [九十九の奏～欠け月の夜想曲～Claude-3-haiku.json](/games/37)
+## [九十九の奏～欠け月の夜想曲～Claude-3-haiku](/games/25)
 
  
 
-## [体育倉庫 ～少女達の散華～Claude-3-haiku.json](/games/38)
+## [体育倉庫 ～少女達の散華～Claude-3-haiku](/games/48)
 
  
 
-## [借金姉妹2 Sakura32b.json](/games/39)
+## [借金姉妹2 Sakura32b](/games/24)
 
  
 
-## [借金姉妹Sakura32b.json](/games/40)
+## [借金姉妹Sakura32b](/games/23)
 
  
 
-## [凛辱の城　傀儡の王Claude-3-haiku.json](/games/41)
+## [凛辱の城　傀儡の王Claude-3-haiku](/games/47)
 
  
 
-## [妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet.json](/games/42)
+## [妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet](/games/42)
 
  
 
-## [妹とご主人さま。EA版0.48 claude-3-5-sonnet.json](/games/43)
+## [妹とご主人さま。EA版0.48 claude-3-5-sonnet](/games/39)
 
  
 
-## [妹と職業体験 Claude-3-5-sonnet .json](/games/44)
+## [妹と職業体験 Claude-3-5-sonnet ](/games/50)
 
  
 
-## [姫巫女gpt4o_2.7z.json](/games/45)
+## [姫巫女gpt4o_2.7z](/games/58)
 
  
 
-## [少女狩りSakura-32B.json](/games/46)
+## [少女狩りSakura-32B](/games/22)
 
  
 
-## [尽くして愛DOLL! ～マスター大好きっ～Claude-3-5-sonnet.json](/games/47)
+## [尽くして愛DOLL! ～マスター大好きっ～Claude-3-5-sonnet](/games/51)
 
  
 
-## [愛玩隷嬢 ～sakura-14b.json](/games/48)
+## [愛玩隷嬢 ～sakura-14b](/games/13)
 
  
 
-## [新・白銀のソレイユ -ReANSWER-claude-3-haiku.json](/games/49)
+## [新・白銀のソレイユ -ReANSWER-claude-3-haiku](/games/38)
 
  
 
-## [星降る夜のファルネーゼ gpt4o.json](/games/50)
+## [星降る夜のファルネーゼ gpt4o](/games/59)
 
  
 
-## [月光に濡れる教室で、僕は。gpt-4o.json](/games/51)
+## [月光に濡れる教室で、僕は。gpt-4o](/games/56)
 
  
 
-## [死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet.json](/games/52)
+## [死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet](/games/20)
 
  
 
-## [犠妹 ～背徳の契り～claude-haiku.json](/games/53)
+## [犠妹 ～背徳の契り～claude-haiku](/games/27)
 
  
 
-## [白銀のソレイユ -Successor of Wyrd《運命の継承者》 特典 白ソレ・あふた～ Claude-3-haiku.json](/games/54)
+## [白銀のソレイユ -Successor of Wyrd《運命の継承者》 特典 白ソレ・あふた～ Claude-3-haiku](/games/41)
 
  
 
-## [白銀のソレイユ -Successor of Wyrd《運命の継承者》-claude-3-haiku.json](/games/55)
+## [白銀のソレイユ -Successor of Wyrd《運命の継承者》-claude-3-haiku](/games/40)
 
  
 
-## [皇女凌俗放送 -楽園のプロパガンダ-claude-3-haiku.json](/games/56)
+## [皇女凌俗放送 -楽園のプロパガンダ-claude-3-haiku](/games/49)
 
  
 
-## [空を飛ぶ、3つの方法。gpt4o.json](/games/57)
+## [空を飛ぶ、3つの方法。gpt4o](/games/64)
 
  
 
-## [花散峪山人考 gpt4o.json](/games/58)
+## [花散峪山人考 gpt4o](/games/57)
 
  
 
-## [華開 ～あの娘はAV嬢～Claude-3-haiku.json](/games/59)
+## [華開 ～あの娘はAV嬢～Claude-3-haiku](/games/30)
 
  
 
-## [野外学習3 Claude-3-5-sonnet.json](/games/60)
+## [野外学習3 Claude-3-5-sonnet](/games/45)
 
  
 
-## [鋼炎のソレイユ－ChaosRegion-Sakura v0.10.json](/games/61)
+## [鋼炎のソレイユ－ChaosRegion-Sakura v0.10](/games/4)
 
  
 
-## [鎖-くさり-claude-3-5-sonnet.json](/games/62)
+## [鎖-くさり-claude-3-5-sonnet](/games/26)
 
  
 
-## [露出人形～恥ずかしさに震える少女～claude-3-haiku.json](/games/63)
+## [露出人形～恥ずかしさに震える少女～claude-3-haiku](/games/11)
 
  
 
-## [露出少女と淫動器具～天才科学者は見られるのがお好き！～claude-3-5-sonnet.json](/games/64)
+## [露出少女と淫動器具～天才科学者は見られるのがお好き！～claude-3-5-sonnet](/games/61)
 
  
 
-## [露出調教同好会 gpt4o.json](/games/65)
+## [露出調教同好会 gpt4o](/games/65)
 
  
 
-## [露出調教同好会2 gpt4o.json](/games/66)
+## [露出調教同好会2 gpt4o](/games/66)
 
  
 
-## [魔法の守護姫アルテミナsakura-14b.json](/games/67)
+## [魔法の守護姫アルテミナsakura-14b](/games/15)
 
  
 
-## [麗佳牝犬調教 ～××に犯されて…～sakura-14b.json](/games/68)
+## [麗佳牝犬調教 ～××に犯されて…～sakura-14b](/games/14)
 
  
 

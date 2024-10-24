@@ -13,29 +13,42 @@ permalink: /all_plugins/
 #ai_plugins_list_md.write("# AI补丁列表\n\n")
 
 
-def gen_game_md(data, idx):
-    game_md = open(f"pages/games/{data['name']}.md", "w", encoding="utf-8")
-    encoded_name = quote(data['name'])
+def gen_game_md(data):
+    day = data["times"].split(" ")[0]
+    game_md = open(f"_posts/{day}-{data['name']}.md", "w", encoding="utf-8")
     name = data["name"]
+    idx = data["idx"]
+    date = data["times"] + " +0800"
     game_md.write(f'''---
-layout: page
+title: {name}
+layout: post
 permalink: /games/{idx}
+date: {date}
+categories: AI translation
 ---\n\n
 ''')
-    game_md.write(f"# {name}\n\n")
+    #game_md.write(f"# {name}\n\n")
     if "urls" in data:
         game_md.write("## 机翻补丁文件：\n\n")
         for i in data["urls"]:
             fn = i["name"]
             u = "../" + i["url"]
             game_md.write(f"[{fn}]({u})\n\n \n\n")
+    
+    if "others" in data:
+        game_md.write("## 相关链接：\n\n")
+        for i in data["others"]:
+            fn = i
+            u = "../artical/" + i
+            game_md.write(f"[{fn}]({u})\n\n \n\n")
+
     game_md.close()
 
-idx = 1
 for f in files:
     data = open_json(f"datas/{f}")
     encoded_name = quote(data['name'])
-    text = f"## [{f}](/games/{idx})\n\n \n\n"
-    gen_game_md(data, idx)
+    title = f.replace(".json","")
+    idx = data["idx"]
+    text = f"## [{title}](/games/{idx})\n\n \n\n"
+    gen_game_md(data)
     ai_plugins_list_md.write(text)
-    idx += 1

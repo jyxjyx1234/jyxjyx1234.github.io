@@ -1,8 +1,8 @@
 ---
+permalink: /artical/unbalance机翻笔记
 layout: post
 title:  "Unbalance 机翻笔记"
 date:   2024-10-24 15:33:30 +0800
-categories: jekyll update
 ---
 Cherry Soft搞的第4作，4作引擎都不同，无语……（其实CRAVE和这个理论上是一个引擎，但是二进制脚本结构、封包结构都迥异）
 
