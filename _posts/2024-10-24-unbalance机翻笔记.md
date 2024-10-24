@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Unbalance 机翻笔记"
 date:   2024-10-24 15:33:30 +0800
 categories: jekyll update
 ---
-这个社搞的第4作，4作引擎都不同，无语……（其实CRAVE和这个理论上是一个引擎，但是二进制脚本结构、封包结构都迥异）
+Cherry Soft搞的第4作，4作引擎都不同，无语……（其实CRAVE和这个理论上是一个引擎，但是二进制脚本结构、封包结构都迥异）
 
 拆包garbro可以拆，但是garbro自动解密了。脚本文件的文本部分加密了，加密方法是：第i位与i异或。
 
