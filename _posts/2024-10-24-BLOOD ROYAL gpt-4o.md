@@ -13,3 +13,9 @@ categories: AI translation
 
  
 
+## 相关链接：
+
+[BLOOD ROYAL机翻笔记](../artical/BLOOD ROYAL机翻笔记)
+
+ 
+
