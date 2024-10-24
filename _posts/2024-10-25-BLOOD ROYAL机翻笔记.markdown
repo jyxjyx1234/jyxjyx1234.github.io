@@ -2,9 +2,8 @@
 permalink: /artical/BLOOD ROYAL机翻笔记
 layout: post
 title:  "BLOOD ROYAL 机翻笔记"
-date: 2024-10-25 00:00:00 +0000
+date: 2024-10-25 00:01:00 +0800
 ---
-
 [项目地址](https://github.com/jyxjyx1234/misc_game-chs/tree/new_branch/bloodroyal)
 
 Cherry Soft搞的第5作，这作的引擎与Promise那作相同，但是还是费了很多工夫。拆包靠garbro，没有加密，封包结构简单但是很怪（文件信息在封包末尾而不是开头），简单分析就能搞出封包代码。
@@ -14,4 +13,3 @@ Cherry Soft搞的第5作，这作的引擎与Promise那作相同，但是还是�
 文本中有特殊代码，\\N为换行，ME为主角名字，这两个在预处理时替换。剩下的一些表示变量的代码可以保留，AI有能力进行处理。
 
 日文处理采用了字体替换，用自研的汉字替换和字体处理组件 `Hanzireplacer.py`处理文本，用自研的 `FONTCHANGER.dll` hook了createfont相关函数导入字体。这个主程序没有加保护，直接用setdll.exe修改主程序就能加载FONTCHANGE.dll了。翻译后，简单更改一下跳转的地址，再进行编译，最后封包就行了。封包名字改成了CHSNR.dat，然后去exe里搜BRSNR.dar，改成CHSNR.dat，这样安装补丁就不用覆盖原文件了。
-
