@@ -1,6 +1,6 @@
 ---
-title: "サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura"
-permalink: /%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%83%8A2%20%EF%BD%9E%E6%88%A6%E3%81%88%EF%BC%81%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%82%B0%EF%BD%9Esakura
+layout: page
+permalink: /games/32
 ---
 
 
@@ -8,7 +8,7 @@ permalink: /%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%8
 
 ## 机翻补丁文件：
 
-[サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%83%8A2%20%EF%BD%9E%E6%88%A6%E3%81%88%EF%BC%81%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%82%B0%EF%BD%9Esakura.rar)
+[サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura.rar](../resources/%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%83%8A2%20%EF%BD%9E%E6%88%A6%E3%81%88%EF%BC%81%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%82%B0%EF%BD%9Esakura.rar)
 
  
 

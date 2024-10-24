@@ -1,6 +1,6 @@
 ---
-title: "体育倉庫 ～少女達の散華～Claude-3-haiku"
-permalink: /%E4%BD%93%E8%82%B2%E5%80%89%E5%BA%AB%20%EF%BD%9E%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E6%95%A3%E8%8F%AF%EF%BD%9EClaude-3-haiku
+layout: page
+permalink: /games/38
 ---
 
 
@@ -8,7 +8,7 @@ permalink: /%E4%BD%93%E8%82%B2%E5%80%89%E5%BA%AB%20%EF%BD%9E%E5%B0%91%E5%A5%B3%E
 
 ## 机翻补丁文件：
 
-[体育倉庫 ～少女達の散華～Claude-3-haiku.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E4%BD%93%E8%82%B2%E5%80%89%E5%BA%AB%20%EF%BD%9E%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E6%95%A3%E8%8F%AF%EF%BD%9EClaude-3-haiku.rar)
+[体育倉庫 ～少女達の散華～Claude-3-haiku.rar](../resources/%E4%BD%93%E8%82%B2%E5%80%89%E5%BA%AB%20%EF%BD%9E%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E6%95%A3%E8%8F%AF%EF%BD%9EClaude-3-haiku.rar)
 
  
 

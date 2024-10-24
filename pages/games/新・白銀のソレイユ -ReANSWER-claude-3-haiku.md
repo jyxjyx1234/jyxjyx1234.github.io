@@ -1,6 +1,6 @@
 ---
-title: "新・白銀のソレイユ -ReANSWER-claude-3-haiku"
-permalink: /%E6%96%B0%E3%83%BB%E7%99%BD%E9%8A%80%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20-ReANSWER-claude-3-haiku
+layout: page
+permalink: /games/49
 ---
 
 
@@ -8,7 +8,7 @@ permalink: /%E6%96%B0%E3%83%BB%E7%99%BD%E9%8A%80%E3%81%AE%E3%82%BD%E3%83%AC%E3%8
 
 ## 机翻补丁文件：
 
-[新・白銀のソレイユ -ReANSWER-claude-3-haiku.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E6%96%B0%E3%83%BB%E7%99%BD%E9%8A%80%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20-ReANSWER-claude-3-haiku.rar)
+[新・白銀のソレイユ -ReANSWER-claude-3-haiku.rar](../resources/%E6%96%B0%E3%83%BB%E7%99%BD%E9%8A%80%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20-ReANSWER-claude-3-haiku.rar)
 
  
 

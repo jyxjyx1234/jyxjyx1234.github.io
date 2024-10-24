@@ -1,6 +1,6 @@
 ---
-title: "Primary ～Magical★Trouble★Scramble～Claude-3-haiku"
-permalink: /Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EClaude-3-haiku
+layout: page
+permalink: /games/10
 ---
 
 
@@ -8,7 +8,7 @@ permalink: /Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9E
 
 ## 机翻补丁文件：
 
-[Primary ～Magical★Trouble★Scramble～Claude-3-haiku.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EClaude-3-haiku.rar)
+[Primary ～Magical★Trouble★Scramble～Claude-3-haiku.rar](../resources/Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EClaude-3-haiku.rar)
 
  
 

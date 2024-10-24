@@ -1,6 +1,6 @@
 ---
-title: "空を飛ぶ、3つの方法。gpt4o"
-permalink: /%E7%A9%BA%E3%82%92%E9%A3%9B%E3%81%B6%E3%80%813%E3%81%A4%E3%81%AE%E6%96%B9%E6%B3%95%E3%80%82gpt4o
+layout: page
+permalink: /games/57
 ---
 
 
@@ -8,7 +8,7 @@ permalink: /%E7%A9%BA%E3%82%92%E9%A3%9B%E3%81%B6%E3%80%813%E3%81%A4%E3%81%AE%E6%
 
 ## 机翻补丁文件：
 
-[空を飛ぶ、3つの方法。gpt4o.rar](https://github.com/jyxjyx1234/jyxjyx1234.github.io/blob/main/resources/%E7%A9%BA%E3%82%92%E9%A3%9B%E3%81%B6%E3%80%813%E3%81%A4%E3%81%AE%E6%96%B9%E6%B3%95%E3%80%82gpt4o.rar)
+[空を飛ぶ、3つの方法。gpt4o.rar](../resources/%E7%A9%BA%E3%82%92%E9%A3%9B%E3%81%B6%E3%80%813%E3%81%A4%E3%81%AE%E6%96%B9%E6%B3%95%E3%80%82gpt4o.rar)
 
  
 
