@@ -1,9 +1,9 @@
 {
-    "name": "オトメ世界の歩き方 claude-3-oups",
+    "name": "オトメ世界の歩き方 claude-3-opus",
     "urls": [
         {
             "name": "オトメ世界の歩き方 claude-3-oups",
-            "url": "resources/オトメ世界の歩き方 claude-3-oups翻译补丁.rar"
+            "url": "resources/オトメ世界の歩き方 claude-3-opus翻译补丁.rar"
         }
     ],
     "times": "2024-10-25 16:30:56",
