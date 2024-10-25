@@ -7,6 +7,8 @@ categories: AI translation
 ---
 
 
+请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
+
 ## 机翻补丁文件：
 
 [九十九の奏～欠け月の夜想曲～Claude-3-haiku.rar](../resources/%E4%B9%9D%E5%8D%81%E4%B9%9D%E3%81%AE%E5%A5%8F%EF%BD%9E%E6%AC%A0%E3%81%91%E6%9C%88%E3%81%AE%E5%A4%9C%E6%83%B3%E6%9B%B2%EF%BD%9EClaude-3-haiku.rar)

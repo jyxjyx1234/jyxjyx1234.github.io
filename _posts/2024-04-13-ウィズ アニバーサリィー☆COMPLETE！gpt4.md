@@ -7,6 +7,8 @@ categories: AI translation
 ---
 
 
+请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
+
 ## 机翻补丁文件：
 
 [ウィズ アニバーサリィー☆COMPLETE！gpt4.rar](../resources/%E3%82%A6%E3%82%A3%E3%82%BA%20%E3%82%A2%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AA%E3%82%A3%E3%83%BC%E2%98%86COMPLETE%EF%BC%81gpt4.rar)

@@ -7,6 +7,8 @@ categories: AI translation
 ---
 
 
+请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
+
 ## 机翻补丁文件：
 
 [Rain memory－あまやどり－sakura.rar](../resources/Rain%20memory%EF%BC%8D%E3%81%82%E3%81%BE%E3%82%84%E3%81%A9%E3%82%8A%EF%BC%8Dsakura.rar)
