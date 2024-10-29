@@ -55,6 +55,10 @@ permalink: /all_plugins/
 
  
 
+## [TORIKO_gpt4o](/games/70)
+
+ 
+
 ## [TRUE BLUE claude-3-5-sonnet](/games/37)
 
  
