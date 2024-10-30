@@ -15,3 +15,9 @@ categories: AI translation
 
  
 
+## 相关链接：
+
+[TORIKO 机翻笔记](../artical/TORIKO 机翻笔记)
+
+ 
+
