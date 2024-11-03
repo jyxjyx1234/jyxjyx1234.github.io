@@ -11,6 +11,10 @@ permalink: /all_plugins/
 
  
 
+## [Chu×Chuアイドる Claude-3-5-sonnet](/games/71)
+
+ 
+
 ## [Color of White claude-3-5-sonnet](/games/29)
 
  
