@@ -11,6 +11,10 @@ permalink: /all_plugins/
 
  
 
+## [Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet](/games/72)
+
+ 
+
 ## [Chu×Chuアイドる Claude-3-5-sonnet](/games/71)
 
  
