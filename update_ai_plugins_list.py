@@ -12,6 +12,12 @@ permalink: /all_plugins/
 ''')
 #ai_plugins_list_md.write("# AI补丁列表\n\n")
 
+gameslist = {}
+for f in files:
+    data = open_json(f"datas/{f}")
+    idx = data["idx"]
+    name = data['name']
+    gameslist[f"{idx}"] = name
 
 def gen_game_md(data):
     day = data["times"].split(" ")[0]
@@ -41,11 +47,20 @@ categories: AI translation
     if "others" in data:
         game_md.write("## 相关链接：\n\n")
         for i in data["others"]:
-            fn = i
-            u = "../artical/" + i
-            game_md.write(f"[{fn}]({u})\n\n \n\n")
+            if type(i) == type(""):
+                fn = i
+                u = "../artical/" + i
+                game_md.write(f"[{fn}]({u})\n\n \n\n")
+            if type(i) == type(1):
+                u = "../games/" + str(i)
+                fn = gameslist[str(i)]
+                game_md.write(f"[{fn}]({u})\n\n \n\n")
+
+    game_md.write(f"通过RSS订阅以下链接，获取补丁发布/更新通知：https://jyxjyx1234.github.io/feed.xml\n\n")
 
     game_md.close()
+
+
 
 for f in files:
     data = open_json(f"datas/{f}")
