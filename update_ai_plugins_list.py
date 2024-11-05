@@ -29,6 +29,8 @@ categories: AI translation
 ''')
     #game_md.write(f"# {name}\n\n")
     game_md.write(f"请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。\n\n")
+    if "comment" in data:
+        game_md.write(f"{data['comment']}\n\n")
     if "urls" in data:
         game_md.write("## 机翻补丁文件：\n\n")
         for i in data["urls"]:

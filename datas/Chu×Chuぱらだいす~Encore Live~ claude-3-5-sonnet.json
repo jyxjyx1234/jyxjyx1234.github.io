@@ -6,6 +6,7 @@
             "url": "resources/Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar"
         }
     ],
-    "times": "2024-11-4 23:25:22",
+    "times": "2024-11-5 17:24:22",
+    "comment" : "- 20241105 修正了半角字符引发的显示异常。",
     "idx": 72
 }
