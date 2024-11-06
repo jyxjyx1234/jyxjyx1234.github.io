@@ -27,5 +27,9 @@ categories: AI translation
 
  
 
+[Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet](../games/76)
+
+ 
+
 通过RSS订阅以下链接，获取补丁发布/更新通知：https://jyxjyx1234.github.io/feed.xml
 

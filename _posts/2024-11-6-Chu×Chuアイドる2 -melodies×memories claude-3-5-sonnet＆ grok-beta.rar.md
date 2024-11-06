@@ -23,11 +23,15 @@ categories: AI translation
 
 ## 相关链接：
 
+[Chu×Chuアイドる Claude-3-5-sonnet](../games/71)
+
+ 
+
 [Chu×Chuぱらだいす~Encore Live~ Claude-3-5-sonnet](../games/72)
 
  
 
-[Chu×Chuアイドる Claude-3-5-sonnet](../games/71)
+[Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet](../games/76)
 
  
 

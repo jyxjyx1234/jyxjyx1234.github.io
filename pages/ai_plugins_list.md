@@ -23,6 +23,10 @@ permalink: /all_plugins/
 
  
 
+## [Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet](/games/76)
+
+ 
+
 ## [Color of White claude-3-5-sonnet](/games/29)
 
  
