@@ -2,10 +2,14 @@
     "name": "オトメ世界の歩き方 claude-3-opus",
     "urls": [
         {
-            "name": "オトメ世界の歩き方 claude-3-oups",
-            "url": "resources/オトメ世界の歩き方 claude-3-opus翻译补丁.rar"
+            "name": "オトメ世界の歩き方 claude-3-oups-光盘版",
+            "url": "resources/オトメ世界の歩き方 claude-3-opus翻译补丁-光盘版.rar"
+        },
+        {
+            "name": "オトメ世界の歩き方 claude-3-oups-dl版",
+            "url": "resources/オトメ世界の歩き方 claude-3-opus翻译补丁-dl版.rar"
         }
     ],
-    "times": "2024-10-25 16:30:56",
+    "times": "2024-11-6 19:30:56",
     "idx": 69
 }
