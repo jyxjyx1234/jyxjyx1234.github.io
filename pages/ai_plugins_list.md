@@ -19,7 +19,7 @@ permalink: /all_plugins/
 
  
 
-## [Chu×Chuアイドる2 -melodies×memories grok-beta](/games/74)
+## [Chu×Chuアイドる2 -melodies×memories claude-3.5-sonnet](/games/74)
 
  
 
@@ -124,6 +124,10 @@ permalink: /all_plugins/
  
 
 ## [ふたりはドM委員長！claude-3-haiku](/games/52)
+
+ 
+
+## [めぐり、ひとひら。 claude-3.5-sonnet](/games/75)
 
  
 
