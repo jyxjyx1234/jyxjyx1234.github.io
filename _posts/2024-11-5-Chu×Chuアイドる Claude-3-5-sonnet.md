@@ -23,7 +23,7 @@ categories: AI translation
 
  
 
-[Chu×Chuアイドる2 -melodies×memories grok-beta](../games/74)
+[Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet＆ grok-beta.rar](../games/74)
 
  
 

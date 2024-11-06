@@ -1,12 +1,18 @@
 {
-    "name": "Chu×Chuアイドる2 -melodies×memories grok-beta",
+    "name": "Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet＆ grok-beta.rar",
     "urls": [
         {
             "name": "Chu×Chuアイドる2 -melodies×memories grok-beta.rar",
             "url": "resources/Chu×Chuアイドる2 -melodies×memories grok-beta.rar"
+        },
+        
+        {
+            "name": "Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar",
+            "url": "resources/Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar"
         }
     ],
-    "times": "2024-11-5 23:54:08",
+    "comment":"- 20241106 更新claude-3-5-sonnet翻译版本，自行选用，两个版本之间存档不兼容。",
+    "times": "2024-11-6 14:38:08",
     "others" : [72, 71],
     "idx": 74
 }
