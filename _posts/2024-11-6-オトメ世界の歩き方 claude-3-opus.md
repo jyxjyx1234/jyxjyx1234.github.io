@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 机翻补丁文件：
 
-[オトメ世界の歩き方 claude-3-oups-光盘版](../resources/オトメ世界の歩き方 claude-3-opus翻译补丁-光盘版.rar)
+[オトメ世界の歩き方 claude-3-oups-光盘版](../resources/オトメ世界の歩き方 claude-3-opus翻译补丁-光盘版.zip)
 
  
 
