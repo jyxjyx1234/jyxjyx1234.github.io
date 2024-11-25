@@ -29,6 +29,6 @@ Rewrite神戶小鸟fumo玩偶绝赞筹划ing 初步估计一只160（暂定）�
 
 神户小鸟天下第一！
 
-![稿图.png](image/广告/小鸟稿图.png)
+![稿图.png](../img/广告/小鸟稿图.png)
 
-![群号.png](image/广告/群号.png)
+![群号.png](../img/广告/群号.png)
