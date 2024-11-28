@@ -283,6 +283,10 @@ permalink: /all_plugins/
 
  
 
+## [転性魔王さまは勇者に勝てない！ claude-3.5-sonnet](/games/80)
+
+ 
+
 ## [野外学習3 Claude-3-5-sonnet](/games/45)
 
  
