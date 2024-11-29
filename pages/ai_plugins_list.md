@@ -283,7 +283,7 @@ permalink: /all_plugins/
 
  
 
-## [让那日的你为我回首。（あの日の君を振り向かせて）claude-3.5-sonnet.rar](/games/81)
+## [让那日的你为我回首。claude-3.5-sonnet.rar](/games/81)
 
  
 
