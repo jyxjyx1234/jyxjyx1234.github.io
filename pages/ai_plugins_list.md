@@ -243,6 +243,10 @@ permalink: /all_plugins/
 
  
 
+## [星辰恋曲的白色永恒 FHD 汉化补丁移植](/games/82)
+
+ 
+
 ## [星降る夜のファルネーゼ gpt4o](/games/59)
 
  
