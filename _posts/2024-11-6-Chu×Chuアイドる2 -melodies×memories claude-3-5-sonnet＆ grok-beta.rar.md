@@ -11,7 +11,7 @@ categories: AI translation
 
 - 20241106 更新claude-3-5-sonnet翻译版本，自行选用，两个版本之间存档不兼容。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [Chu×Chuアイドる2 -melodies×memories grok-beta.rar](../resources/Chu×Chuアイドる2 -melodies×memories grok-beta.rar)
 

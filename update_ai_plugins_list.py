@@ -8,7 +8,7 @@ ads = open("广告.md", "r", encoding="utf-8").read()
 ai_plugins_list_md = open("pages/ai_plugins_list.md", "w", encoding="utf-8")
 ai_plugins_list_md.write('''---
 layout: page
-title: "AI补丁列表"
+title: "补丁文件列表"
 permalink: /all_plugins/
 ---
 ''')
@@ -40,7 +40,7 @@ categories: AI translation
     if "comment" in data:
         game_md.write(f"{data['comment']}\n\n")
     if "urls" in data:
-        game_md.write("## 机翻补丁文件：\n\n")
+        game_md.write("## 补丁文件：\n\n")
         for i in data["urls"]:
             fn = i["name"]
             u = "../" + i["url"]

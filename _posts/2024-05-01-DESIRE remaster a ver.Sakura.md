@@ -9,7 +9,7 @@ categories: AI translation
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [DESIRE remaster a ver.Sakura.rar](../resources/DESIRE%20remaster%20a%20ver.Sakura.rar)
 

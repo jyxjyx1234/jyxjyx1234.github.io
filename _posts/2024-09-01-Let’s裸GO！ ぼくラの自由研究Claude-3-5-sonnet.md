@@ -9,7 +9,7 @@ categories: AI translation
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [Let’s裸GO！ ぼくラの自由研究Claude-3-5-sonnet.rar](../resources/Let%E2%80%99s%E8%A3%B8GO%EF%BC%81%20%E3%81%BC%E3%81%8F%E3%83%A9%E3%81%AE%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6Claude-3-5-sonnet.rar)
 

@@ -9,7 +9,7 @@ categories: AI translation
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [新・白銀のソレイユ -ReANSWER-claude-3-haiku.rar](../resources/%E6%96%B0%E3%83%BB%E7%99%BD%E9%8A%80%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20-ReANSWER-claude-3-haiku.rar)
 

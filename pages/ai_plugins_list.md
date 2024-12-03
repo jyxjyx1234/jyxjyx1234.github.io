@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AI补丁列表"
+title: "补丁文件列表"
 permalink: /all_plugins/
 ---
 ## [Angel Wish～放課後の召使いにチュッ！～ gpt3.5](/games/1)

@@ -13,7 +13,7 @@ categories: AI translation
 
 - 20241109 修正了选项的异常。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [Chu×Chuアイドる Claude-3-5-sonnet.rar](../resources/Chu×Chuアイドる Claude-3-5-sonnet.rar)
 

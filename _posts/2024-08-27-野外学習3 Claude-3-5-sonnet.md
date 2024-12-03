@@ -9,7 +9,7 @@ categories: AI translation
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [野外学習3 Claude-3-5-sonnet.rar](../resources/%E9%87%8E%E5%A4%96%E5%AD%A6%E7%BF%923%20Claude-3-5-sonnet.rar)
 

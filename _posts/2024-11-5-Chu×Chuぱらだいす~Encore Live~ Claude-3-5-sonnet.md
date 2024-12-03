@@ -11,7 +11,7 @@ categories: AI translation
 
 - 20241105 修正了半角字符引发的显示异常。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar](../resources/Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar)
 

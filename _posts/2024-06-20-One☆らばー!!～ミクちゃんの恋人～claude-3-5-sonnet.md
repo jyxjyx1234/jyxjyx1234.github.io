@@ -9,7 +9,7 @@ categories: AI translation
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-## 机翻补丁文件：
+## 补丁文件：
 
 [One☆らばー!!～ミクちゃんの恋人～claude-3-5-sonnet.rar](../resources/One%E2%98%86%E3%82%89%E3%81%B0%E3%83%BC%21%21%EF%BD%9E%E3%83%9F%E3%82%AF%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9Eclaude-3-5-sonnet.rar)
 
