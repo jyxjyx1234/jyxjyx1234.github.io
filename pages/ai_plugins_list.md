@@ -47,6 +47,10 @@ permalink: /all_plugins/
 
  
 
+## [innocence pain～満ちる闇　欠ける月～gpt-4o](/games/83)
+
+ 
+
 ## [Let’s裸GO！ ぼくラの自由研究Claude-3-5-sonnet](/games/46)
 
  
