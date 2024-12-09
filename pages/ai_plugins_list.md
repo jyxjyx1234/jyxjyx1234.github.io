@@ -47,7 +47,7 @@ permalink: /all_plugins/
 
  
 
-## [innocence pain～満ちる闇　欠ける月～gpt-4o](/games/83)
+## [innocence pain～満ちる闇　欠ける月～deepseek](/games/83)
 
  
 

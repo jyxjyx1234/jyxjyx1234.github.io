@@ -1,0 +1,13 @@
+{
+    "name": "innocence pain～満ちる闇　欠ける月～deepseek",
+    "urls": [
+        {
+            "name": "innocence pain～満ちる闇　欠ける月～deepseek",
+            "url": "resources/innocence pain～満ちる闇　欠ける月～deepseek.7z"
+        }
+    ],
+    "comment": "- 20241209 修正字库错误；修正程序错误导致了部分人名显示错误\n- 20241210 修正了已知的闪退错误",
+    "times": "2024-12-10 00:30:00",
+    "others" : ["innocence pain 机翻笔记"],
+    "idx": 83
+}
