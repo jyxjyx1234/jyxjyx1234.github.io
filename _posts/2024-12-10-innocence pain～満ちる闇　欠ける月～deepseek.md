@@ -11,10 +11,11 @@ categories: AI translation
 
 - 20241209 修正字库错误；修正程序错误导致了部分人名显示错误
 - 20241210 修正了已知的闪退错误
+- 20241211 修正了已知的闪退错误。目前还有极少部分转场可能闪退，似乎是游戏原程序的问题。此问题skip时不会触发，读档然后skip过去即可。
 
 ## 补丁文件：
 
-[innocence pain～満ちる闇　欠ける月～deepseek](../resources/innocence pain～満ちる闇　欠ける月～deepseek.7z)
+[innocence pain～満ちる闇　欠ける月～deepseek](../resources/iinnocence pain～満ちる闇　欠ける月～deepseek.rar)
 
  
 
