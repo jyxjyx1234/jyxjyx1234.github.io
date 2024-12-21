@@ -87,6 +87,10 @@ permalink: /all_plugins/
 
  
 
+## [WW&F～大正帝都伝奇譚～ gpt-4o](/games/85)
+
+ 
+
 ## [あやかし遊郭～花魁道中～claude-3.5-sonnet](/games/73)
 
  
@@ -172,6 +176,10 @@ permalink: /all_plugins/
  
 
 ## [サマナープリンセス アルテミナ3 ～二人の有紗～sakura](/games/18)
+
+ 
+
+## [シロクロ gpt4o](/games/86)
 
  
 
