@@ -271,6 +271,10 @@ permalink: /all_plugins/
 
  
 
+## [望却のエディシウス gpt4o](/games/88)
+
+ 
+
 ## [死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet](/games/20)
 
  
