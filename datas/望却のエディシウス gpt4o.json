@@ -1,9 +1,14 @@
 {
-    "name": "望却のエディシウス gpt4o",
+    "name": "望却のエディシウス gpt4o ＆ claude-3.5-sonnet",
     "urls": [
         {
             "name": "望却のエディシウス gpt4o机翻",
-            "url": "resources/望却のエディシウス gpt4o机翻.rar"
+            "url": "resources/望却のエディシウス gpt4o.rar"
+        },
+        
+        {
+            "name": "望却のエディシウス claude-3.5-sonnet机翻",
+            "url": "resources/望却のエディシウス claude-3.5-sonnet.rar"
         }
     ],
     "comment": "",
