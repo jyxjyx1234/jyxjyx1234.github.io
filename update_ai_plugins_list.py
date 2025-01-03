@@ -16,10 +16,14 @@ permalink: /all_plugins/
 
 gameslist = {}
 for f in files:
-    data = open_json(f"datas/{f}")
-    idx = data["idx"]
-    name = data['name']
-    gameslist[f"{idx}"] = name
+    try:
+        data = open_json(f"datas/{f}")
+        idx = data["idx"]
+        name = data['name']
+        gameslist[f"{idx}"] = name
+    except:
+        print(f"Error: {f}")
+        exit()
 
 def gen_game_md(data):
     day = data["times"].split(" ")[0]
