@@ -4,9 +4,14 @@
         {
             "name": "Natural Another One 2nd -Belladonna- deepseek机翻",
             "url": "resources/Natural Another One 2nd -Belladonna- deepseek机翻.7z"
+        },
+        {
+            "name": "Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻",
+            "url": "resources/Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻.7z"
         }
+        
     ],
-    "comment": "感谢 @缠绕的火与水 的协助，感谢 @ShiraYukiNoa 制作的dl版免dvd补丁！\n本补丁只适配DL版！！",
-    "times": "2024-12-28 16:10:00",
+    "comment": "感谢 @缠绕的火与水 的协助，感谢 @ShiraYukiNoa 制作的dl版免dvd补丁！\n本补丁只适配DL版！！\n- 20250103: 更新Claude 3.5 Sonnet机翻，效果更佳",
+    "times": "2025-1-3 16:10:00",
     "idx": 87
 }
