@@ -1,0 +1,31 @@
+{
+    "name": "双叶频道1-4 claude-3.5-sonnet",
+    "urls": [
+        {
+            "name": "双叶频道1 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道1 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道2 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道2 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道2.5 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道2.5 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道3 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道3 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道3.5 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道3.5 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道4 claude-3.5-sonnet.rar",
+            "url": "resources/双叶频道4 claude-3.5-sonnet.rar"
+        }
+    ],
+    "times": "2025-1-22 18:00:00",
+    "idx": 92
+}

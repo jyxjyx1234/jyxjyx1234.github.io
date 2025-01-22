@@ -47,6 +47,10 @@ permalink: /all_plugins/
 
  
 
+## [HOUND MiniMax-Text-01](/games/97)
+
+ 
+
 ## [innocence pain～満ちる闇　欠ける月～deepseek](/games/83)
 
  
@@ -84,6 +88,10 @@ permalink: /all_plugins/
  
 
 ## [this will never end deepseek](/games/89)
+
+ 
+
+## [Tiara Claude-3.5-sonnet](/games/98)
 
  
 
@@ -175,6 +183,10 @@ permalink: /all_plugins/
 
  
 
+## [エインズワースの魔物たち claude-3.5-sonnet](/games/99)
+
+ 
+
 ## [オトメ世界の歩き方 claude-3-oups](/games/69)
 
  
@@ -231,6 +243,10 @@ permalink: /all_plugins/
 
  
 
+## [双叶频道1-4 claude-3.5-sonnet](/games/92)
+
+ 
+
 ## [妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet](/games/42)
 
  
@@ -284,6 +300,10 @@ permalink: /all_plugins/
  
 
 ## [望却のエディシウス gpt4o](/games/88)
+
+ 
+
+## [来てね！魔法戦士の学園祭 claude-3-5-sonnet](/games/96)
 
  
 
@@ -363,7 +383,23 @@ permalink: /all_plugins/
 
  
 
+## [魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet](/games/93)
+
+ 
+
+## [魔法戦士エクストラステージ2 claude-3-5-sonnet](/games/95)
+
+ 
+
+## [魔法戦士レムティアナイツ claude-3.5-sonnet](/games/94)
+
+ 
+
 ## [麗佳牝犬調教 ～××に犯されて…～sakura-14b](/games/14)
+
+ 
+
+## [黒と黒と黒の祭壇 Claude-3.5-sonnet](/games/100)
 
  
 
