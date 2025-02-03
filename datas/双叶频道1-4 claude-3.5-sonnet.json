@@ -1,5 +1,5 @@
 {
-    "name": "双叶频道1-4 claude-3.5-sonnet",
+    "name": "双叶频道1-4.5 claude-3.5-sonnet",
     "urls": [
         {
             "name": "双叶频道1 claude-3.5-sonnet.rar",
@@ -24,8 +24,12 @@
         {
             "name": "双叶频道4 claude-3.5-sonnet.rar",
             "url": "resources/双叶频道4 claude-3.5-sonnet.rar"
+        },
+        {
+            "name": "双叶频道4.5 deepseek-R1.rar",
+            "url": "resources/双叶频道4.5 deepseek-R1.rar"
         }
     ],
-    "times": "2025-1-22 18:00:00",
+    "times": "2025-2-3 11:00:00",
     "idx": 92
 }

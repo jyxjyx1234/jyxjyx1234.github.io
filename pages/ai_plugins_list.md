@@ -191,6 +191,10 @@ permalink: /all_plugins/
 
  
 
+## [カスタム隷奴F QWEN-MAX](/games/102)
+
+ 
+
 ## [キスよりさきに恋よりはやくsakura32b](/games/36)
 
  
@@ -239,11 +243,23 @@ permalink: /all_plugins/
 
  
 
+## [兄妹～ふたり～ Deepseek-R1](/games/105)
+
+ 
+
 ## [凛辱の城　傀儡の王Claude-3-haiku](/games/47)
 
  
 
 ## [双叶频道1-4 claude-3.5-sonnet](/games/92)
+
+ 
+
+## [双性の姫君 Deepseek-R1](/games/104)
+
+ 
+
+## [堕ちゆく教室 Deepseek-R1](/games/107)
 
  
 
@@ -267,11 +283,19 @@ permalink: /all_plugins/
 
  
 
+## [少女連鎖 deepseek-r1](/games/103)
+
+ 
+
 ## [尽くして愛DOLL! ～マスター大好きっ～Claude-3-5-sonnet](/games/51)
 
  
 
 ## [巫女舞～ただ一つの願い～claude-3.5-sonnet](/games/77)
+
+ 
+
+## [恋する乙女のお仕置き授業 Deepseek-R1](/games/106)
 
  
 
@@ -327,6 +351,10 @@ permalink: /all_plugins/
 
  
 
+## [真・燐月 deepseek-r1](/games/108)
+
+ 
+
 ## [空を飛ぶ、3つの方法。gpt4o](/games/64)
 
  
@@ -336,6 +364,10 @@ permalink: /all_plugins/
  
 
 ## [華開 ～あの娘はAV嬢～Claude-3-haiku](/games/30)
+
+ 
+
+## [蜜柑 DeepSeek-R1](/games/101)
 
  
 
