@@ -391,6 +391,10 @@ permalink: /all_plugins/
 
  
 
+## [鍵を隠したカゴのトリ_Deepseek-R1](/games/109)
+
+ 
+
 ## [鎖-くさり-claude-3-5-sonnet](/games/26)
 
  
