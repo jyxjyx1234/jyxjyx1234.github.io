@@ -4,6 +4,7 @@ from urllib.parse import quote
 
 files = os.listdir("datas")
 # ads = open("广告.md", "r", encoding="utf-8").read()
+links = open("links.md", "r", encoding="utf-8").read()
 
 ai_plugins_list_md = open("pages/ai_plugins_list.md", "w", encoding="utf-8")
 ai_plugins_list_md.write('''---
@@ -65,6 +66,7 @@ categories: AI translation
     game_md.write(f"通过RSS订阅以下链接，获取补丁发布/更新通知：https://jyxjyx1234.github.io/feed.xml\n\n")
 
     # game_md.write(ads)
+    game_md.write(links)
 
     game_md.close()
 
