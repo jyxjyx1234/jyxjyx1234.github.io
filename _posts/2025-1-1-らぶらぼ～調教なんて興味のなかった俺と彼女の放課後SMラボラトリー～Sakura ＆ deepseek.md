@@ -23,3 +23,8 @@ deepseek版重制了程序，提高了译文质量，并且文本没有截断。
 
 通过RSS订阅以下链接，获取补丁发布/更新通知：https://jyxjyx1234.github.io/feed.xml
 
+## 友情链接
+
+[julixianのself-interested website](https://julixian-siw.worldsystem.top/) 
+
+[galgame分享](https://t.me/galgpt)

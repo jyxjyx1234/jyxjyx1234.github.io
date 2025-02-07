@@ -31,3 +31,8 @@ categories: AI translation
 
 通过RSS订阅以下链接，获取补丁发布/更新通知：https://jyxjyx1234.github.io/feed.xml
 
+## 友情链接
+
+[julixianのself-interested website](https://julixian-siw.worldsystem.top/) 
+
+[galgame分享](https://t.me/galgpt)
