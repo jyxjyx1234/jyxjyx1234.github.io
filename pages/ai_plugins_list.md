@@ -107,6 +107,10 @@ permalink: /all_plugins/
 
  
 
+## [Vermilion -Bind of Blood- deepseek-R1](/games/110)
+
+ 
+
 ## [WW&F～大正帝都伝奇譚～ gpt-4o](/games/85)
 
  
