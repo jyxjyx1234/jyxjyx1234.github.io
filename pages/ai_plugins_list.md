@@ -255,6 +255,10 @@ permalink: /all_plugins/
 
  
 
+## [処女宮 deepseek-R1](/games/111)
+
+ 
+
 ## [双叶频道1-4 claude-3.5-sonnet](/games/92)
 
  
