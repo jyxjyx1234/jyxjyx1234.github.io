@@ -99,6 +99,10 @@ permalink: /all_plugins/
 
  
 
+## [Triptych Deepseek-R1](/games/112)
+
+ 
+
 ## [TRUE BLUE claude-3-5-sonnet](/games/37)
 
  
