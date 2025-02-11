@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[処女宮 deepseek-R1.rar](../resources/処女宮 deepseek-R1.rar)
+[処女宮 deepseek-R1.rar](../resources/処女宮 Deepseek-R1.rar)
 
  
 
