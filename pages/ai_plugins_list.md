@@ -147,6 +147,10 @@ permalink: /all_plugins/
 
  
 
+## [にぃなのエロ曜日 Deepseek-R1](/games/113)
+
+ 
+
 ## [にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku](/games/31)
 
  
