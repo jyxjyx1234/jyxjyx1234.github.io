@@ -211,7 +211,7 @@ permalink: /all_plugins/
 
  
 
-## [サノバ☆ビッチ Deepseek-R1](/games/114)
+## [サノバ ビッチ Deepseek-R1](/games/114)
 
  
 
