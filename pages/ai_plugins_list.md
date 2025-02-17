@@ -211,6 +211,10 @@ permalink: /all_plugins/
 
  
 
+## [サノバ☆ビッチ Deepseek-R1](/games/114)
+
+ 
+
 ## [サマナープリンセス アルテミナ2 ～戦え！アポローグ～sakura](/games/17)
 
  
