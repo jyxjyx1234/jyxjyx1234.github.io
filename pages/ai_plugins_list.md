@@ -267,6 +267,10 @@ permalink: /all_plugins/
 
  
 
+## [先生っ！シてあげる Deepseek-R1](/games/116)
+
+ 
+
 ## [凛辱の城　傀儡の王Claude-3-haiku](/games/47)
 
  
