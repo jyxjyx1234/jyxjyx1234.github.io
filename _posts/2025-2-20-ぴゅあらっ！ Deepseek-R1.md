@@ -1,8 +1,8 @@
 ---
-title: Triptych Deepseek-R1
+title: ぴゅあらっ！ Deepseek-R1
 layout: post
-permalink: /games/112
-date: 2025-2-11 03:30:00 +0800
+permalink: /games/117
+date: 2025-2-20 21:00:00 +0800
 categories: AI translation
 ---
 
@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Triptych Deepseek-R1.rar](../resources/Triptych Deepseek-R1.rar)
+[ぴゅあらっ！ Deepseek-R1.rar](../resources/ぴゅあらっ！ Deepseek-R1.rar)
 
  
 

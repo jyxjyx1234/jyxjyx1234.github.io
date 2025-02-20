@@ -159,6 +159,10 @@ permalink: /all_plugins/
 
  
 
+## [ぴゅあらっ！ Deepseek-R1](/games/117)
+
+ 
+
 ## [ふたごえっち Step-2-16k](/games/53)
 
  
