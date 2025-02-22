@@ -2,7 +2,7 @@
 title: Triptych Deepseek-R1
 layout: post
 permalink: /games/112
-date: 2025-2-20 03:30:00 +0800
+date: 2025-2-23 03:30:00 +0800
 categories: AI translation
 ---
 
@@ -10,6 +10,7 @@ categories: AI translation
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
 - 20250220 修复字体bug。
+- 20250223 修复卡莲线的一些闪退bug
 
 ## 补丁文件：
 
