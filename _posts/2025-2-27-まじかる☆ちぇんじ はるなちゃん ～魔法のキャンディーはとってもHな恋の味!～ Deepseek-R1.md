@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[家出少女調教通学 Deepseek-R1.rar](../resources/まじかる☆ちぇんじ はるなちゃん Deepseek-R1.rar)
+[まじかる☆ちぇんじ はるなちゃん Deepseek-R1.rar](../resources/まじかる☆ちぇんじ はるなちゃん Deepseek-R1.rar)
 
  
 
