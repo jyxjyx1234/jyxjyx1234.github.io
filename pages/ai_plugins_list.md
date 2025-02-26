@@ -175,6 +175,10 @@ permalink: /all_plugins/
 
  
 
+## [まじかる☆ちぇんじ はるなちゃん Deepseek-R1](/games/120)
+
+ 
+
 ## [めぐり、ひとひら。 claude-3.5-sonnet](/games/75)
 
  
