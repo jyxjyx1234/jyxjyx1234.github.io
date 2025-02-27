@@ -467,6 +467,10 @@ permalink: /all_plugins/
 
  
 
+## [魔法の歌姫クレシェンドメロディ Deepseek-R1](/games/122)
+
+ 
+
 ## [魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet](/games/93)
 
  
