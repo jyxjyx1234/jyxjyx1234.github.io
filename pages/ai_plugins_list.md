@@ -239,6 +239,10 @@ permalink: /all_plugins/
 
  
 
+## [ナイショのよりみち Deepseek-R1](/games/123)
+
+ 
+
 ## [ピアノ ～紅楼館の隷嬢達～claude-3-5-sonnet](/games/44)
 
  
