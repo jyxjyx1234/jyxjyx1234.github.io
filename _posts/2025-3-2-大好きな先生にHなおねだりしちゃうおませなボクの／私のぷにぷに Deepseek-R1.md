@@ -2,7 +2,7 @@
 title: 大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1
 layout: post
 permalink: /games/125
-date: 2025-3-2 17:00:00 +0800
+date: 2025-3-2 16:30:00 +0800
 categories: AI translation
 ---
 
