@@ -443,6 +443,10 @@ permalink: /all_plugins/
 
  
 
+## [金曜日の仔猫 Deepseek-R1](/games/126)
+
+ 
+
 ## [鋼炎のソレイユ－ChaosRegion-Sakura v0.10](/games/4)
 
  
