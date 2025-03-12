@@ -503,6 +503,10 @@ permalink: /all_plugins/
 
  
 
+## [黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1](/games/127)
+
+ 
+
 ## [黒と黒と黒の祭壇 Claude-3.5-sonnet](/games/100)
 
  
