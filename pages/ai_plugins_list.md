@@ -259,6 +259,10 @@ permalink: /all_plugins/
 
  
 
+## [中二病な彼女の恋愛方程式 Deepseek-R1](/games/129)
+
+ 
+
 ## [九十九の奏～欠け月の夜想曲～Claude-3-haiku](/games/25)
 
  
