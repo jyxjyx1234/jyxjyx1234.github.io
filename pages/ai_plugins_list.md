@@ -395,6 +395,10 @@ permalink: /all_plugins/
 
  
 
+## [牝犬発情記 Deepseek-R1](/games/130)
+
+ 
+
 ## [犠妹 ～背徳の契り～claude-haiku](/games/27)
 
  
