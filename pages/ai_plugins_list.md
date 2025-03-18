@@ -419,6 +419,10 @@ permalink: /all_plugins/
 
  
 
+## [秋のうららの～あかね色商店街～ Deepseek-R1](/games/131)
+
+ 
+
 ## [空を飛ぶ、3つの方法。gpt4o](/games/64)
 
  
