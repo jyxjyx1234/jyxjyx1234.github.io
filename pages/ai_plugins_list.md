@@ -439,6 +439,10 @@ permalink: /all_plugins/
 
  
 
+## [萌えッ娘ナース Deepseek-R1](/games/132)
+
+ 
+
 ## [蜜柑 DeepSeek-R1](/games/101)
 
  
