@@ -2,7 +2,7 @@
 title: 萌えッ娘ナース Deepseek-R1
 layout: post
 permalink: /games/132
-date: 2025-3-26 2:00:00 +0800
+date: 2025-3-27 00:00:00 +0800
 categories: AI translation
 ---
 
@@ -10,6 +10,7 @@ categories: AI translation
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
 - 20250326 优化了部分翻译，修正了部分符号乱码，补充了部分漏翻。
+- 20250327 解决了右键菜单的显示问题。
 
 ## 补丁文件：
 
