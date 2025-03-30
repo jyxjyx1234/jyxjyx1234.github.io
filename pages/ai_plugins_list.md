@@ -155,7 +155,7 @@ permalink: /all_plugins/
 
  
 
-## [ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](/games/133)
+## [ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](/games/134)
 
  
 
