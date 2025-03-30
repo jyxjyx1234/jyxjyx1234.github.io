@@ -155,6 +155,10 @@ permalink: /all_plugins/
 
  
 
+## [ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](/games/133)
+
+ 
+
 ## [はっぴぃ☆マーガレット！gpt4o](/games/3)
 
  
