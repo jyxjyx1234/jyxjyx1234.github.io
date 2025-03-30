@@ -2,7 +2,7 @@
 title: ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1
 layout: post
 permalink: /games/134
-date: 2025-3-30 16:00:00 +0800
+date: 2025-3-30 16:01:00 +0800
 categories: AI translation
 ---
 
@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](../resources/ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1)
+[ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](../resources/ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1.rar)
 
  
 
