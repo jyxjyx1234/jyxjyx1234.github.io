@@ -47,6 +47,10 @@ permalink: /all_plugins/
 
  
 
+## [Hello, good-bye Claude-3.5-sonnet](/games/135)
+
+ 
+
 ## [HOUND MiniMax-Text-01](/games/97)
 
  
