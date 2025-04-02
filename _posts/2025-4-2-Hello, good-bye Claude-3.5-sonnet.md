@@ -2,7 +2,7 @@
 title: Hello, good-bye Claude-3.5-sonnet
 layout: post
 permalink: /games/135
-date: 2025-4-1 00:01:00 +0800
+date: 2025-4-2 21:01:00 +0800
 categories: AI translation
 ---
 
@@ -10,6 +10,7 @@ categories: AI translation
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
 本补丁文本由julixian使用claude-3.5-sonnet翻译，这里对补丁程序进行了重制，解决了文本截断问题。
+20250402: 修正部分乱码；修正部分译名和大规模的错译
 
 ## 补丁文件：
 

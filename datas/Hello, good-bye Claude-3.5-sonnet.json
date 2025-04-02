@@ -6,7 +6,7 @@
             "url": "resources/Hello, good-bye Claude-3.5-sonnet.rar"
         }
     ],
-    "comment": "本补丁文本由julixian使用claude-3.5-sonnet翻译，这里对补丁程序进行了重制，解决了文本截断问题。",
-    "times": "2025-4-1 00:01:00",
+    "comment": "本补丁文本由julixian使用claude-3.5-sonnet翻译，这里对补丁程序进行了重制，解决了文本截断问题。\n20250402: 修正部分乱码；修正部分译名和大规模的错译",
+    "times": "2025-4-2 21:01:00",
     "idx": 135
 }
