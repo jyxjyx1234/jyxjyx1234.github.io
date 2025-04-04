@@ -455,6 +455,10 @@ permalink: /all_plugins/
 
  
 
+## [虹の彼方に Deepseek-R1](/games/136)
+
+ 
+
 ## [蜜柑 DeepSeek-R1](/games/101)
 
  
