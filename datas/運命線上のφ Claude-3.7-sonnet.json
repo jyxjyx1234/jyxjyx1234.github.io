@@ -2,11 +2,11 @@
     "name": "運命線上のφ Claude-3.7-sonnet",
     "urls": [
         {
-            "name": "UNMEI Claude-3.7-sonnet.rar",
-            "url": "resources/UNMEI Claude-3.7-sonnet.rar"
+            "name": "UNMEI Claude-3.7-sonnet v1.1.rar",
+            "url": "resources/UNMEI Claude-3.7-sonnet v1.1.rar"
         }
     ],
-    "comment": "",
-    "times": "2025-4-5 17:01:00",
+    "comment": "- 20250406 修正了部分译文；修正了一个导致部分翻译后脚本文件无法正确加载的问题。",
+    "times": "2025-4-6 15:01:00",
     "idx": 137
 }
