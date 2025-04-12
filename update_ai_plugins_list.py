@@ -48,7 +48,10 @@ categories: AI translation
         game_md.write("## 补丁文件：\n\n")
         for i in data["urls"]:
             fn = i["name"]
-            u = "../" + i["url"]
+            if not i["url"].startswith("http"):
+                u = "../" + i["url"]
+            else:
+                u = i["url"]
             game_md.write(f"[{fn}]({u})\n\n \n\n")
     
     if "others" in data:
