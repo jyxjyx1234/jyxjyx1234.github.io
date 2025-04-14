@@ -1,16 +1,16 @@
 {
-    "name": "恋もも claude-3.5-sonnet",
+    "name": "恋もも claude-3.7-sonnet",
     "urls": [
         {
-            "name": "恋もも claude-3.5-sonnet.rar",
-            "url": "resources/恋もも claude-3.5-sonnet.rar"
+            "name": "恋もも claude-3.7-sonnet.rar",
+            "url": "resources/恋もも claude-3.7-sonnet.rar"
         },
         {
             "name": "恋もも sakura.rar",
             "url": "resources/恋もも sakura.rar"
         }
     ],
-    "comment" : "- 20241120 之前打包漏了文件，补上了。",
-    "times": "2024-11-20 22:16:01",
+    "comment" : "- 20241120 之前打包漏了文件，补上了。\n- 20250414 使用Claude-3.7-sonnet重制。",
+    "times": "2025-4-14 18:16:01",
     "idx": 79
 }
