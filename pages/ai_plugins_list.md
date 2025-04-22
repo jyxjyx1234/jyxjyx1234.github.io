@@ -559,6 +559,10 @@ permalink: /all_plugins/
 
  
 
+## [黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet](/games/143)
+
+ 
+
 ## [黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1](/games/127)
 
  
