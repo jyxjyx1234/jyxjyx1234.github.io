@@ -407,6 +407,10 @@ permalink: /all_plugins/
 
  
 
+## [根暗なクラスメイトが俺の胃袋を掴んで放してくれない claude-3.7-sonnet](/games/144)
+
+ 
+
 ## [死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet](/games/20)
 
  
