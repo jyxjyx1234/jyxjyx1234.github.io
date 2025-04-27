@@ -267,6 +267,10 @@ permalink: /all_plugins/
 
  
 
+## [メルフィアス 蒼紅のヴァージェ claude-3.7-sonnet](/games/145)
+
+ 
+
 ## [ヤンデレイン claude-3.5-sonnet](/games/91)
 
  
