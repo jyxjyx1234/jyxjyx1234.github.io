@@ -1,5 +1,5 @@
 ---
-permalink: /artical/BLOOD ROYAL机翻笔记
+permalink: /artical/BLOOD ROYAL机翻笔记/
 layout: post
 title:  "BLOOD ROYAL 机翻笔记"
 date: 2024-10-25 00:01:00 +0800
