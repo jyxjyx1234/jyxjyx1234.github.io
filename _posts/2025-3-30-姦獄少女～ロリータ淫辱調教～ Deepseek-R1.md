@@ -1,5 +1,5 @@
 ---
-title: 姦獄少女～ロリータ淫辱調教～ Deepseek-R1
+title: 姦獄少女～ロリータ淫辱調教～ Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/133
 date: 2025-3-30 16:30:00 +0800

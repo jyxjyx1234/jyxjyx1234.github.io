@@ -1,5 +1,5 @@
 ---
-title: Chu×Chuぱらだいす~Encore Live~ Claude-3-5-sonnet
+title: Chu×Chuぱらだいす~Encore Live~ Claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/72
 date: 2024-11-5 17:24:22 +0800

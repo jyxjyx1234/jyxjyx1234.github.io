@@ -1,5 +1,5 @@
 ---
-title: ピアノ ～紅楼館の隷嬢達～claude-3-5-sonnet
+title: ピアノ ～紅楼館の隷嬢達～claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/44
 date: 2024-08-25 03:06:27 +0800

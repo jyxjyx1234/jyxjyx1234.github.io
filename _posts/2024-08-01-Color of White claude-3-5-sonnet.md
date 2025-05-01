@@ -1,5 +1,5 @@
 ---
-title: Color of White claude-3-5-sonnet
+title: Color of White claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/29
 date: 2024-08-01 22:31:42 +0800

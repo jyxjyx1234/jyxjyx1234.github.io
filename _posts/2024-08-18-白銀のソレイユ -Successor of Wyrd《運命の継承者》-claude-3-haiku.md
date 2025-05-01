@@ -1,5 +1,5 @@
 ---
-title: 白銀のソレイユ -Successor of Wyrd《運命の継承者》-claude-3-haiku
+title: 白銀のソレイユ -Successor of Wyrd《運命の継承者》-claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/40
 date: 2024-08-18 03:51:11 +0800

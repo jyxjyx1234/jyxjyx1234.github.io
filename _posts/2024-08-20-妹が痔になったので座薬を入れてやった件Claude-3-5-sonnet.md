@@ -1,5 +1,5 @@
 ---
-title: 妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet
+title: 妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/42
 date: 2024-08-20 19:27:35 +0800

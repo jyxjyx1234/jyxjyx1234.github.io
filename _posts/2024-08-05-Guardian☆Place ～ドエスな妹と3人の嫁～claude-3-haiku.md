@@ -1,5 +1,5 @@
 ---
-title: Guardian☆Place ～ドエスな妹と3人の嫁～claude-3-haiku
+title: Guardian☆Place ～ドエスな妹と3人の嫁～claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/32
 date: 2024-08-05 00:25:54 +0800

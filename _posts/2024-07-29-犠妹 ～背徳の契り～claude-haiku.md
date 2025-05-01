@@ -1,5 +1,5 @@
 ---
-title: 犠妹 ～背徳の契り～claude-haiku
+title: 犠妹 ～背徳の契り～claude-haiku 机翻补丁
 layout: post
 permalink: /games/27
 date: 2024-07-29 04:35:58 +0800

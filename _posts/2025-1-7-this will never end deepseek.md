@@ -1,5 +1,5 @@
 ---
-title: this will never end deepseek
+title: this will never end deepseek 机翻补丁
 layout: post
 permalink: /games/89
 date: 2025-1-7 22:00:00 +0800

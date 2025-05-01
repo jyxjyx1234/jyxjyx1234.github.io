@@ -1,5 +1,5 @@
 ---
-title: 萌えッ娘ナース Deepseek-R1
+title: 萌えッ娘ナース Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/132
 date: 2025-3-27 00:00:00 +0800

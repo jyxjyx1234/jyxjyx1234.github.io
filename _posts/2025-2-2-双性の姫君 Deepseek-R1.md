@@ -1,5 +1,5 @@
 ---
-title: 双性の姫君 Deepseek-R1
+title: 双性の姫君 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/104
 date: 2025-2-2 11:00:00 +0800

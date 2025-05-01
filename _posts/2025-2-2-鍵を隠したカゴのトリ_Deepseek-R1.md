@@ -1,5 +1,5 @@
 ---
-title: 鍵を隠したカゴのトリ_Deepseek-R1
+title: 鍵を隠したカゴのトリ_Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/109
 date: 2025-2-2 11:00:00 +0800

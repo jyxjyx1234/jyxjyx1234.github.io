@@ -1,5 +1,5 @@
 ---
-title: Vermilion -Bind of Blood- deepseek-R1
+title: Vermilion -Bind of Blood- deepseek-R1 机翻补丁
 layout: post
 permalink: /games/110
 date: 2025-2-8 04:00:00 +0800

@@ -1,5 +1,5 @@
 ---
-title: Natural Another One 2nd -Belladonna- deepseek
+title: Natural Another One 2nd -Belladonna- deepseek 机翻补丁
 layout: post
 permalink: /games/87
 date: 2025-1-3 16:10:00 +0800

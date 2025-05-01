@@ -1,5 +1,5 @@
 ---
-title: 露出人形～恥ずかしさに震える少女～claude-3-haiku
+title: 露出人形～恥ずかしさに震える少女～claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/11
 date: 2024-06-19 14:17:44 +0800

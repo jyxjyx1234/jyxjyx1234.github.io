@@ -1,5 +1,5 @@
 ---
-title: 中二病な彼女の恋愛方程式 Deepseek-R1
+title: 中二病な彼女の恋愛方程式 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/129
 date: 2025-3-15 22:20:00 +0800

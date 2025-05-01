@@ -1,5 +1,5 @@
 ---
-title: One☆らばー!!～ミクちゃんの恋人～claude-3-5-sonnet
+title: One☆らばー!!～ミクちゃんの恋人～claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/12
 date: 2024-06-20 16:52:50 +0800

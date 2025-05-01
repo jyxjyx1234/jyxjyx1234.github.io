@@ -1,5 +1,5 @@
 ---
-title: Promise ～プロミス～claude-3-5-sonnet
+title: Promise ～プロミス～claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/62
 date: 2024-10-01 16:47:38 +0800

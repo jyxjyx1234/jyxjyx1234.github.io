@@ -1,5 +1,5 @@
 ---
-title: 華開 ～あの娘はAV嬢～Claude-3-haiku
+title: 華開 ～あの娘はAV嬢～Claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/30
 date: 2024-08-03 01:40:08 +0800

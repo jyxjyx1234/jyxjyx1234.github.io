@@ -1,5 +1,5 @@
 ---
-title: 家出少女調教通学 Deepseek-R1
+title: 家出少女調教通学 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/119
 date: 2025-2-25 20:00:00 +0800

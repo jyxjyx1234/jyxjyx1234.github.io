@@ -1,5 +1,5 @@
 ---
-title: 自慰倒錯 Deepseek-R1 Deepseek-R1
+title: 自慰倒錯 Deepseek-R1 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/128
 date: 2025-3-14 3:20:00 +0800

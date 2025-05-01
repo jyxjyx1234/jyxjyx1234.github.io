@@ -1,5 +1,5 @@
 ---
-title: 蜜柑 DeepSeek-R1
+title: 蜜柑 DeepSeek-R1 机翻补丁
 layout: post
 permalink: /games/101
 date: 2025-2-2 11:00:00 +0800

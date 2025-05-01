@@ -1,5 +1,5 @@
 ---
-title: りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k
+title: りとる†びっち ～Little Bitch Girls in Hog Farm～step-2-16k 机翻补丁
 layout: post
 permalink: /games/54
 date: 2024-09-18 01:26:23 +0800

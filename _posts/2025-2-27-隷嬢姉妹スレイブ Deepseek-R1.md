@@ -1,5 +1,5 @@
 ---
-title: 隷嬢姉妹スレイブ Deepseek-R1
+title: 隷嬢姉妹スレイブ Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/121
 date: 2025-2-27 20:00:00 +0800

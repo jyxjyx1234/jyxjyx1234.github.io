@@ -1,5 +1,5 @@
 ---
-title: 魔法の歌姫クレシェンドメロディ Deepseek-R1
+title: 魔法の歌姫クレシェンドメロディ Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/122
 date: 2025-2-28 4:00:00 +0800

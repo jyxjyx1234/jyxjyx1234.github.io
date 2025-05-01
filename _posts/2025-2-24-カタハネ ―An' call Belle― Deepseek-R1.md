@@ -1,5 +1,5 @@
 ---
-title: カタハネ ―An' call Belle― Deepseek-R1
+title: カタハネ ―An' call Belle― Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/118
 date: 2025-2-24 18:00:00 +0800

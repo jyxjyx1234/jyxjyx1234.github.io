@@ -1,5 +1,5 @@
 ---
-title: こいなかlovers Sakura-14b
+title: こいなかlovers Sakura-14b 机翻补丁
 layout: post
 permalink: /games/19
 date: 2024-07-01 06:31:40 +0800

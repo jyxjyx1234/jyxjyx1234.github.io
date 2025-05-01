@@ -1,5 +1,5 @@
 ---
-title: innocence pain～満ちる闇　欠ける月～deepseek
+title: innocence pain～満ちる闇　欠ける月～deepseek 机翻补丁
 layout: post
 permalink: /games/83
 date: 2024-12-10 00:30:00 +0800

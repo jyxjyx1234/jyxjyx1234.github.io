@@ -1,5 +1,5 @@
 ---
-title: 妹と職業体験 Claude-3-5-sonnet 
+title: 妹と職業体験 Claude-3-5-sonnet  机翻补丁
 layout: post
 permalink: /games/50
 date: 2024-09-08 02:11:07 +0800

@@ -1,5 +1,5 @@
 ---
-title: Tiara Claude-3.5-sonnet
+title: Tiara Claude-3.5-sonnet 机翻补丁
 layout: post
 permalink: /games/98
 date: 2025-2-8 14:00:00 +0800

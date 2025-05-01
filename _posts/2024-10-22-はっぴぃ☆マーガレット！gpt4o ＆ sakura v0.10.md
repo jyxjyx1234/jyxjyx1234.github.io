@@ -1,5 +1,5 @@
 ---
-title: はっぴぃ☆マーガレット！gpt4o ＆ sakura v0.10
+title: はっぴぃ☆マーガレット！gpt4o ＆ sakura v0.10 机翻补丁
 layout: post
 permalink: /games/3
 date: 2024-10-22 04:58:01 +0800

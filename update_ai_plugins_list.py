@@ -29,7 +29,7 @@ for f in files:
 def gen_game_md(data):
     day = data["times"].split(" ")[0]
     game_md = open(f"_posts/{day}-{data['name']}.md", "w", encoding="utf-8")
-    name = data["name"]
+    name = data["name"] + " 机翻补丁"
     idx = data["idx"]
     date = data["times"] + " +0800"
     game_md.write(f'''---

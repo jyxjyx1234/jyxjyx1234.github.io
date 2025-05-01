@@ -1,5 +1,5 @@
 ---
-title: 鋼炎のソレイユ－ChaosRegion-Sakura v0.10
+title: 鋼炎のソレイユ－ChaosRegion-Sakura v0.10 机翻补丁
 layout: post
 permalink: /games/4
 date: 2024-04-25 01:14:05 +0800

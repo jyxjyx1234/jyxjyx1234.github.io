@@ -1,5 +1,5 @@
 ---
-title: 処女宮 deepseek-R1
+title: 処女宮 deepseek-R1 机翻补丁
 layout: post
 permalink: /games/111
 date: 2025-2-10 02:00:00 +0800

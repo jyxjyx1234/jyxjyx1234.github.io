@@ -1,5 +1,5 @@
 ---
-title: にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku
+title: にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/31
 date: 2024-08-03 22:45:33 +0800

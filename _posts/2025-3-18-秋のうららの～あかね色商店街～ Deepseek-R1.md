@@ -1,5 +1,5 @@
 ---
-title: 秋のうららの～あかね色商店街～ Deepseek-R1
+title: 秋のうららの～あかね色商店街～ Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/131
 date: 2025-3-18 23:00:00 +0800

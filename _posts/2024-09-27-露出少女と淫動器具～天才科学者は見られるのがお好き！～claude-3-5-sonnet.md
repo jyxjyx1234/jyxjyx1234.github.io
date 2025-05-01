@@ -1,5 +1,5 @@
 ---
-title: 露出少女と淫動器具～天才科学者は見られるのがお好き！～claude-3-5-sonnet
+title: 露出少女と淫動器具～天才科学者は見られるのがお好き！～claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/61
 date: 2024-09-27 02:50:55 +0800

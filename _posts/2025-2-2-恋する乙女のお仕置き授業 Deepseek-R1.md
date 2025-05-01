@@ -1,5 +1,5 @@
 ---
-title: 恋する乙女のお仕置き授業 Deepseek-R1
+title: 恋する乙女のお仕置き授業 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/106
 date: 2025-2-2 11:00:00 +0800

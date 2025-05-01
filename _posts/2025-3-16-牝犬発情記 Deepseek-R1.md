@@ -1,5 +1,5 @@
 ---
-title: 牝犬発情記 Deepseek-R1
+title: 牝犬発情記 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/130
 date: 2025-3-16 22:20:00 +0800

@@ -1,5 +1,5 @@
 ---
-title: 来てね！魔法戦士の学園祭 claude-3-5-sonnet
+title: 来てね！魔法戦士の学園祭 claude-3-5-sonnet 机翻补丁
 layout: post
 permalink: /games/96
 date: 2025-1-22 18:00:00 +0800

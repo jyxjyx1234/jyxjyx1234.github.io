@@ -1,5 +1,5 @@
 ---
-title: 体育倉庫 ～少女達の散華～Claude-3-haiku
+title: 体育倉庫 ～少女達の散華～Claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/48
 date: 2024-09-02 19:42:16 +0800

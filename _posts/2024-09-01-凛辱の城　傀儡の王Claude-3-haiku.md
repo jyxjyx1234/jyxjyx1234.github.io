@@ -1,5 +1,5 @@
 ---
-title: 凛辱の城　傀儡の王Claude-3-haiku
+title: 凛辱の城　傀儡の王Claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/47
 date: 2024-09-01 00:04:50 +0800

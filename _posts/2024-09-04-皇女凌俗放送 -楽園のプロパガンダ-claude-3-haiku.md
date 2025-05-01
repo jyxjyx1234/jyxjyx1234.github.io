@@ -1,5 +1,5 @@
 ---
-title: 皇女凌俗放送 -楽園のプロパガンダ-claude-3-haiku
+title: 皇女凌俗放送 -楽園のプロパガンダ-claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/49
 date: 2024-09-04 04:01:02 +0800

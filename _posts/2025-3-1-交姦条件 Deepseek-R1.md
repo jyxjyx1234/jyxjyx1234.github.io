@@ -1,5 +1,5 @@
 ---
-title: 交姦条件 Deepseek-R1
+title: 交姦条件 Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/124
 date: 2025-3-1 17:00:00 +0800

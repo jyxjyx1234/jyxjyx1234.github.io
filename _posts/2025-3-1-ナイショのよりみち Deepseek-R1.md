@@ -1,5 +1,5 @@
 ---
-title: ナイショのよりみち Deepseek-R1
+title: ナイショのよりみち Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/123
 date: 2025-3-1 6:00:00 +0800

@@ -1,5 +1,5 @@
 ---
-title: 新・白銀のソレイユ -ReANSWER-claude-3-haiku
+title: 新・白銀のソレイユ -ReANSWER-claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/38
 date: 2024-08-11 05:19:47 +0800

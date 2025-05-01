@@ -1,5 +1,5 @@
 ---
-title: ぴゅあらっ！ Deepseek-R1
+title: ぴゅあらっ！ Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/117
 date: 2025-2-20 21:00:00 +0800

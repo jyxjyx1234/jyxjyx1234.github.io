@@ -1,5 +1,5 @@
 ---
-title: Angel Wish～放課後の召使いにチュッ！～ gpt3.5
+title: Angel Wish～放課後の召使いにチュッ！～ gpt3.5 机翻补丁
 layout: post
 permalink: /games/1
 date: 2024-04-09 13:57:12 +0800

@@ -1,5 +1,5 @@
 ---
-title: おしえて☆エッチなレシピ -アナタとワタシのあま～いせいかつ！-claude-3-haiku
+title: おしえて☆エッチなレシピ -アナタとワタシのあま～いせいかつ！-claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/35
 date: 2024-08-07 21:25:49 +0800

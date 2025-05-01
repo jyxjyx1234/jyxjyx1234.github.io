@@ -1,5 +1,5 @@
 ---
-title: 死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet
+title: 死神のテスタメント ～menuet of epistula～Claude-3.5-sonnet 机翻补丁
 layout: post
 permalink: /games/20
 date: 2024-07-05 04:12:50 +0800

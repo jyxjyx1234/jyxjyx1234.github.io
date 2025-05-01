@@ -1,5 +1,5 @@
 ---
-title: ふたりはドM委員長！claude-3-haiku
+title: ふたりはドM委員長！claude-3-haiku 机翻补丁
 layout: post
 permalink: /games/52
 date: 2024-09-14 16:39:16 +0800

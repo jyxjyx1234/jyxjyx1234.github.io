@@ -1,5 +1,5 @@
 ---
-title: 先生っ！シてあげる Deepseek-R1
+title: 先生っ！シてあげる Deepseek-R1 机翻补丁
 layout: post
 permalink: /games/116
 date: 2025-2-20 5:00:00 +0800
