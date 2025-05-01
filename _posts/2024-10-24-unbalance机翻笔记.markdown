@@ -1,5 +1,5 @@
 ---
-permalink: /artical/unbalance机翻笔记
+permalink: /artical/unbalance机翻笔记/
 layout: post
 title:  "Unbalance 机翻笔记"
 date:   2024-10-24 15:33:30 +0800

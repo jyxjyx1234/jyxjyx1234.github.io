@@ -1,5 +1,5 @@
 ---
-permalink: /artical/innocence pain 机翻笔记
+permalink: /artical/innocence pain 机翻笔记/
 layout: post
 title:  "innocence pain 机翻笔记"
 date: 2024-12-08 12:18:00 +0800
