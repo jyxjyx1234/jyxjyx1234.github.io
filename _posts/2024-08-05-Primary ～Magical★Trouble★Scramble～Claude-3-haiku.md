@@ -1,7 +1,7 @@
 ---
 title: Primary ～Magical★Trouble★Scramble～Claude-3-haiku 机翻补丁
 layout: post
-permalink: /games/33
+permalink: https://jyxjyx1234.github.io/games/33
 date: 2024-08-05 22:54:02 +0800
 categories: AI translation
 ---

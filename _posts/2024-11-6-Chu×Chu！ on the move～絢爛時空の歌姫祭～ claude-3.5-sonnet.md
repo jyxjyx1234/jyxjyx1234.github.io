@@ -1,7 +1,7 @@
 ---
 title: Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet 机翻补丁
 layout: post
-permalink: /games/76
+permalink: https://jyxjyx1234.github.io/games/76
 date: 2024-11-6 23:02:08 +0800
 categories: AI translation
 ---

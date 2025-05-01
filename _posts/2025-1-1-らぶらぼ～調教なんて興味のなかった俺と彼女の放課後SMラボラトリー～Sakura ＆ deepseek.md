@@ -1,7 +1,7 @@
 ---
 title: らぶらぼ～調教なんて興味のなかった俺と彼女の放課後SMラボラトリー～Sakura ＆ deepseek 机翻补丁
 layout: post
-permalink: /games/9
+permalink: https://jyxjyx1234.github.io/games/9
 date: 2025-1-1 14:18:31 +0800
 categories: AI translation
 ---

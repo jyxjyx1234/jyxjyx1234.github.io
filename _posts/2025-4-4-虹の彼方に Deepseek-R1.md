@@ -1,7 +1,7 @@
 ---
 title: 虹の彼方に Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/136
+permalink: https://jyxjyx1234.github.io/games/136
 date: 2025-4-4 16:01:00 +0800
 categories: AI translation
 ---

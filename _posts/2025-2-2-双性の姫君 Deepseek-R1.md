@@ -1,7 +1,7 @@
 ---
 title: 双性の姫君 Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/104
+permalink: https://jyxjyx1234.github.io/games/104
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: Rain memory－あまやどり－sakura 机翻补丁
 layout: post
-permalink: /games/8
+permalink: https://jyxjyx1234.github.io/games/8
 date: 2024-06-05 16:16:31 +0800
 categories: AI translation
 ---

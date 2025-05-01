@@ -1,7 +1,7 @@
 ---
 title: Hello, good-bye Claude-3.5-sonnet 机翻补丁
 layout: post
-permalink: /games/135
+permalink: https://jyxjyx1234.github.io/games/135
 date: 2025-4-2 21:01:00 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: 野外学習3 Claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/45
+permalink: https://jyxjyx1234.github.io/games/45
 date: 2024-08-27 22:07:50 +0800
 categories: AI translation
 ---

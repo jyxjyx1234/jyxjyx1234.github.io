@@ -1,7 +1,7 @@
 ---
 title: まじかる☆ちぇんじ はるなちゃん ～魔法のキャンディーはとってもHな恋の味!～ Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/120
+permalink: https://jyxjyx1234.github.io/games/120
 date: 2025-2-27 1:00:00 +0800
 categories: AI translation
 ---

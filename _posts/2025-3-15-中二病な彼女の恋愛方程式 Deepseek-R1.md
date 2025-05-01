@@ -1,7 +1,7 @@
 ---
 title: 中二病な彼女の恋愛方程式 Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/129
+permalink: https://jyxjyx1234.github.io/games/129
 date: 2025-3-15 22:20:00 +0800
 categories: AI translation
 ---

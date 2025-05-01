@@ -1,7 +1,7 @@
 ---
 title: Chu×Chuアイドる Claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/71
+permalink: https://jyxjyx1234.github.io/games/71
 date: 2024-11-9 16:23:22 +0800
 categories: AI translation
 ---

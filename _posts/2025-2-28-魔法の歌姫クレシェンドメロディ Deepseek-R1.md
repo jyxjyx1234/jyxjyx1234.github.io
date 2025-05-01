@@ -1,7 +1,7 @@
 ---
 title: 魔法の歌姫クレシェンドメロディ Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/122
+permalink: https://jyxjyx1234.github.io/games/122
 date: 2025-2-28 4:00:00 +0800
 categories: AI translation
 ---

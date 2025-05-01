@@ -1,7 +1,7 @@
 ---
 title: 九十九の奏～欠け月の夜想曲～Claude-3-haiku 机翻补丁
 layout: post
-permalink: /games/25
+permalink: https://jyxjyx1234.github.io/games/25
 date: 2024-07-22 01:01:31 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: 少女連鎖 deepseek-r1 机翻补丁
 layout: post
-permalink: /games/103
+permalink: https://jyxjyx1234.github.io/games/103
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

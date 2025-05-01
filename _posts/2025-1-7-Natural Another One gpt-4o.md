@@ -1,7 +1,7 @@
 ---
 title: Natural Another One gpt-4o 机翻补丁
 layout: post
-permalink: /games/90
+permalink: https://jyxjyx1234.github.io/games/90
 date: 2025-1-7 22:00:00 +0800
 categories: AI translation
 ---

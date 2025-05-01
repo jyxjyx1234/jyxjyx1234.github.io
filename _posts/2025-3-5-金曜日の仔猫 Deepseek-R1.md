@@ -1,7 +1,7 @@
 ---
 title: 金曜日の仔猫 Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/126
+permalink: https://jyxjyx1234.github.io/games/126
 date: 2025-3-5 18:30:00 +0800
 categories: AI translation
 ---

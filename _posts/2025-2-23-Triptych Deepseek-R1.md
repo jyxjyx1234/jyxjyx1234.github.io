@@ -1,7 +1,7 @@
 ---
 title: Triptych Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/112
+permalink: https://jyxjyx1234.github.io/games/112
 date: 2025-2-23 03:30:00 +0800
 categories: AI translation
 ---

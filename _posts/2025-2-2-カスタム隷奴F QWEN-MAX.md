@@ -1,7 +1,7 @@
 ---
 title: カスタム隷奴F QWEN-MAX 机翻补丁
 layout: post
-permalink: /games/102
+permalink: https://jyxjyx1234.github.io/games/102
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

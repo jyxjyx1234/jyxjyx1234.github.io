@@ -1,7 +1,7 @@
 ---
 title: DESIRE remaster a ver.Sakura 机翻补丁
 layout: post
-permalink: /games/6
+permalink: https://jyxjyx1234.github.io/games/6
 date: 2024-05-01 17:04:35 +0800
 categories: AI translation
 ---

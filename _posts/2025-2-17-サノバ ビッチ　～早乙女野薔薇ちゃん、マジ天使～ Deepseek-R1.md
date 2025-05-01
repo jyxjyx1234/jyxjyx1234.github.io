@@ -1,7 +1,7 @@
 ---
 title: サノバ ビッチ　～早乙女野薔薇ちゃん、マジ天使～ Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/114
+permalink: https://jyxjyx1234.github.io/games/114
 date: 2025-2-17 14:00:00 +0800
 categories: AI translation
 ---
