@@ -1,7 +1,7 @@
 ---
 title: ウィズ アニバーサリィー☆COMPLETE！gpt4 机翻补丁
 layout: post
-permalink: /games/2
+permalink: /games/2/
 date: 2024-04-13 14:12:36 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: 魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet 机翻补丁
 layout: post
-permalink: /games/93
+permalink: /games/93/
 date: 2025-1-22 18:00:00 +0800
 categories: AI translation
 ---

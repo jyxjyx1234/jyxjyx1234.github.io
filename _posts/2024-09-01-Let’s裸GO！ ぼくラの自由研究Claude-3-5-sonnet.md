@@ -1,7 +1,7 @@
 ---
 title: Let’s裸GO！ ぼくラの自由研究Claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/46
+permalink: /games/46/
 date: 2024-09-01 00:02:50 +0800
 categories: AI translation
 ---

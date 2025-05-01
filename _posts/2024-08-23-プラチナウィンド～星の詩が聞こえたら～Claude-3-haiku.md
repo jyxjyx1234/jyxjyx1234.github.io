@@ -1,7 +1,7 @@
 ---
 title: プラチナウィンド～星の詩が聞こえたら～Claude-3-haiku 机翻补丁
 layout: post
-permalink: /games/43
+permalink: /games/43/
 date: 2024-08-23 05:28:55 +0800
 categories: AI translation
 ---

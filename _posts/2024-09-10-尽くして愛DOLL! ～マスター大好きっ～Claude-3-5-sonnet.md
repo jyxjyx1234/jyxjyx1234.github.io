@@ -1,7 +1,7 @@
 ---
 title: 尽くして愛DOLL! ～マスター大好きっ～Claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/51
+permalink: /games/51/
 date: 2024-09-10 03:20:33 +0800
 categories: AI translation
 ---

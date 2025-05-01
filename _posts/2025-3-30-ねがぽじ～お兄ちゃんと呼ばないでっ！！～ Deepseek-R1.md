@@ -1,7 +1,7 @@
 ---
 title: ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/134
+permalink: /games/134/
 date: 2025-3-30 16:01:00 +0800
 categories: AI translation
 ---

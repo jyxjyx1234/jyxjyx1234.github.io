@@ -1,7 +1,7 @@
 ---
 title: 鎖-くさり-claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/26
+permalink: /games/26/
 date: 2024-07-24 03:10:38 +0800
 categories: AI translation
 ---

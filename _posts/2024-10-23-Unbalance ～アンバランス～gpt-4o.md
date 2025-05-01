@@ -1,7 +1,7 @@
 ---
 title: Unbalance ～アンバランス～gpt-4o 机翻补丁
 layout: post
-permalink: /games/67
+permalink: /games/67/
 date: 2024-10-23 03:37:21 +0800
 categories: AI translation
 ---

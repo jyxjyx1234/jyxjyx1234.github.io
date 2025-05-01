@@ -1,7 +1,7 @@
 ---
 title: 兄妹～ふたり～ Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/105
+permalink: /games/105/
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

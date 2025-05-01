@@ -1,7 +1,7 @@
 ---
 title: 黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1 机翻补丁
 layout: post
-permalink: /games/127
+permalink: /games/127/
 date: 2025-3-12 20:20:00 +0800
 categories: AI translation
 ---

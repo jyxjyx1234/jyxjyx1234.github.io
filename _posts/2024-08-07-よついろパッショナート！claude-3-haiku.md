@@ -1,7 +1,7 @@
 ---
 title: よついろパッショナート！claude-3-haiku 机翻补丁
 layout: post
-permalink: /games/34
+permalink: /games/34/
 date: 2024-08-07 14:54:21 +0800
 categories: AI translation
 ---

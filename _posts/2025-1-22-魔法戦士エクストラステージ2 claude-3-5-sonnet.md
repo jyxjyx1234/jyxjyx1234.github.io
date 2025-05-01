@@ -1,7 +1,7 @@
 ---
 title: 魔法戦士エクストラステージ2 claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/95
+permalink: /games/95/
 date: 2025-1-22 18:00:00 +0800
 categories: AI translation
 ---

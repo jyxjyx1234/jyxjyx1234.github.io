@@ -1,7 +1,7 @@
 ---
 title: HOUND -獣欲の買収者- MiniMax-Text-01 机翻补丁
 layout: post
-permalink: /games/97
+permalink: /games/97/
 date: 2025-1-22 18:00:00 +0800
 categories: AI translation
 ---

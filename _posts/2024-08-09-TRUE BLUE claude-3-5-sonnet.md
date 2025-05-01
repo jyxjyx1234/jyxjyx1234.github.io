@@ -1,7 +1,7 @@
 ---
 title: TRUE BLUE claude-3-5-sonnet 机翻补丁
 layout: post
-permalink: /games/37
+permalink: /games/37/
 date: 2024-08-09 20:38:55 +0800
 categories: AI translation
 ---

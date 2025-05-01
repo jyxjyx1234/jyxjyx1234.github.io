@@ -1,7 +1,7 @@
 ---
 title: オトメ世界の歩き方 claude-3-opus 机翻补丁
 layout: post
-permalink: /games/69
+permalink: /games/69/
 date: 2024-11-6 19:30:56 +0800
 categories: AI translation
 ---

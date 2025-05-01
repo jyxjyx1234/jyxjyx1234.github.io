@@ -35,7 +35,7 @@ def gen_game_md(data):
     game_md.write(f'''---
 title: {name}
 layout: post
-permalink: /games/{idx}
+permalink: /games/{idx}/
 date: {date}
 categories: AI translation
 ---\n\n
