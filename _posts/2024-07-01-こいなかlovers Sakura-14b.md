@@ -1,7 +1,7 @@
 ---
 title: こいなかlovers Sakura-14b 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/19
+permalink: /games/19
 date: 2024-07-01 06:31:40 +0800
 categories: AI translation
 ---

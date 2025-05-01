@@ -1,7 +1,7 @@
 ---
 title: にゃんカフェマキアート ～猫がいるカフェのえっち事情～claude-3-haiku 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/31
+permalink: /games/31
 date: 2024-08-03 22:45:33 +0800
 categories: AI translation
 ---

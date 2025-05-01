@@ -1,7 +1,7 @@
 ---
 title: BLOOD ROYAL gpt-4o 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/68
+permalink: /games/68
 date: 2024-10-24 01:03:58 +0800
 categories: AI translation
 ---

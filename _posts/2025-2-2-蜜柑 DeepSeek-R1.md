@@ -1,7 +1,7 @@
 ---
 title: 蜜柑 DeepSeek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/101
+permalink: /games/101
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: this will never end deepseek 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/89
+permalink: /games/89
 date: 2025-1-7 22:00:00 +0800
 categories: AI translation
 ---

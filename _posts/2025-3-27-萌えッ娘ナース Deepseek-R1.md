@@ -1,7 +1,7 @@
 ---
 title: 萌えッ娘ナース Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/132
+permalink: /games/132
 date: 2025-3-27 00:00:00 +0800
 categories: AI translation
 ---

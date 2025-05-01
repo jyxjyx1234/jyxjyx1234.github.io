@@ -1,7 +1,7 @@
 ---
 title: ふたりはドM委員長！claude-3-haiku 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/52
+permalink: /games/52
 date: 2024-09-14 16:39:16 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: ふたなりカノンちゃんClaude-3-5-sonnet 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/21
+permalink: /games/21
 date: 2024-07-09 01:41:12 +0800
 categories: AI translation
 ---

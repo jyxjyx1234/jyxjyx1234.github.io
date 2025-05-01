@@ -1,7 +1,7 @@
 ---
 title: 黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/143
+permalink: /games/143
 date: 2025-4-22 22:10:14 +0800
 categories: AI translation
 ---

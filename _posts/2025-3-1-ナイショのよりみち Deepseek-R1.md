@@ -1,7 +1,7 @@
 ---
 title: ナイショのよりみち Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/123
+permalink: /games/123
 date: 2025-3-1 6:00:00 +0800
 categories: AI translation
 ---

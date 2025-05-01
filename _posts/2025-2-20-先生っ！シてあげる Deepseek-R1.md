@@ -1,7 +1,7 @@
 ---
 title: 先生っ！シてあげる Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/116
+permalink: /games/116
 date: 2025-2-20 5:00:00 +0800
 categories: AI translation
 ---

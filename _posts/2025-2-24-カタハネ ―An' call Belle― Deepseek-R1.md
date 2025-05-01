@@ -1,7 +1,7 @@
 ---
 title: カタハネ ―An' call Belle― Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/118
+permalink: /games/118
 date: 2025-2-24 18:00:00 +0800
 categories: AI translation
 ---

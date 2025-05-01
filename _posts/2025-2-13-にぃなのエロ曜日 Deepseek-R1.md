@@ -1,7 +1,7 @@
 ---
 title: にぃなのエロ曜日 Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/113
+permalink: /games/113
 date: 2025-2-13 19:30:00 +0800
 categories: AI translation
 ---

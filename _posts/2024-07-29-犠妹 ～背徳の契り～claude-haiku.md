@@ -1,7 +1,7 @@
 ---
 title: 犠妹 ～背徳の契り～claude-haiku 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/27
+permalink: /games/27
 date: 2024-07-29 04:35:58 +0800
 categories: AI translation
 ---

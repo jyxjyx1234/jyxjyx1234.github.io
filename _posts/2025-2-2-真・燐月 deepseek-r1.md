@@ -1,7 +1,7 @@
 ---
 title: 真・燐月 deepseek-r1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/108
+permalink: /games/108
 date: 2025-2-2 11:00:00 +0800
 categories: AI translation
 ---

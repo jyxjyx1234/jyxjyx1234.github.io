@@ -1,7 +1,7 @@
 ---
 title: Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet＆ grok-beta.rar 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/74
+permalink: /games/74
 date: 2024-11-6 14:38:08 +0800
 categories: AI translation
 ---

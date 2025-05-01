@@ -1,7 +1,7 @@
 ---
 title: 牝犬発情記 Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/130
+permalink: /games/130
 date: 2025-3-16 22:20:00 +0800
 categories: AI translation
 ---

@@ -1,7 +1,7 @@
 ---
 title: 白銀のソレイユ -Successor of Wyrd《運命の継承者》-claude-3-haiku 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/40
+permalink: /games/40
 date: 2024-08-18 03:51:11 +0800
 categories: AI translation
 ---

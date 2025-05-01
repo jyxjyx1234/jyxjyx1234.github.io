@@ -1,7 +1,7 @@
 ---
 title: 秋のうららの～あかね色商店街～ Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/131
+permalink: /games/131
 date: 2025-3-18 23:00:00 +0800
 categories: AI translation
 ---

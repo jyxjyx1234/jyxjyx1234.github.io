@@ -1,7 +1,7 @@
 ---
 title: FairChild gpt4o 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/60
+permalink: /games/60
 date: 2024-09-25 04:20:07 +0800
 categories: AI translation
 ---

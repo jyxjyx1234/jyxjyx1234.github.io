@@ -1,7 +1,7 @@
 ---
 title: 交姦条件 Deepseek-R1 机翻补丁
 layout: post
-permalink: https://jyxjyx1234.github.io/games/124
+permalink: /games/124
 date: 2025-3-1 17:00:00 +0800
 categories: AI translation
 ---
