@@ -1,5 +1,5 @@
 ---
-permalink: /artical/TORIKO 机翻笔记
+permalink: /artical/TORIKO 机翻笔记/
 layout: post
 title:  "TORIKO 机翻笔记"
 date: 2024-10-31 00:00:05 +0800
