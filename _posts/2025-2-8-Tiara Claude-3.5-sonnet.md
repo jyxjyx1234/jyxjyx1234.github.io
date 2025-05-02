@@ -14,7 +14,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Tiara Claude-3.5-sonnet.rar](../resources/Tiara Claude-3.5-sonnet.rar)
+[Tiara Claude-3.5-sonnet.rar](../../resources/Tiara Claude-3.5-sonnet.rar)
 
  
 

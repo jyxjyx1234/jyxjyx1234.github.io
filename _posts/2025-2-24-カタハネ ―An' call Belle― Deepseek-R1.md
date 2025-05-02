@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[カタハネ ―An' call Belle― Deepseek-R1.rar](../resources/カタハネ ―An' call Belle― Deepseek-R1.rar)
+[カタハネ ―An' call Belle― Deepseek-R1.rar](../../resources/カタハネ ―An' call Belle― Deepseek-R1.rar)
 
  
 

@@ -14,7 +14,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Triptych Deepseek-R1.rar](../resources/Triptych Deepseek-R1.rar)
+[Triptych Deepseek-R1.rar](../../resources/Triptych Deepseek-R1.rar)
 
  
 

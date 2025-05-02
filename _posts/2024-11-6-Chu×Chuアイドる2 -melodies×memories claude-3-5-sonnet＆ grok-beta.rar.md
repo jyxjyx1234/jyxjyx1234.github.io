@@ -13,11 +13,11 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Chu×Chuアイドる2 -melodies×memories grok-beta.rar](../resources/Chu×Chuアイドる2 -melodies×memories grok-beta.rar)
+[Chu×Chuアイドる2 -melodies×memories grok-beta.rar](../../resources/Chu×Chuアイドる2 -melodies×memories grok-beta.rar)
 
  
 
-[Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar](../resources/Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar)
+[Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar](../../resources/Chu×Chuアイドる2 -melodies×memories claude-3-5-sonnet.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Natural Another One gpt-4o.rar](../resources/Natural Another One gpt-4o.rar)
+[Natural Another One gpt-4o.rar](../../resources/Natural Another One gpt-4o.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[少女連鎖 deepseek-r1.rar](../resources/少女連鎖 deepseek-r1.rar)
+[少女連鎖 deepseek-r1.rar](../../resources/少女連鎖 deepseek-r1.rar)
 
  
 

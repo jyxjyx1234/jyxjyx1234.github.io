@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[金曜日の仔猫 Deepseek-R1.rar](../resources/金曜日の仔猫 Deepseek-R1.rar)
+[金曜日の仔猫 Deepseek-R1.rar](../../resources/金曜日の仔猫 Deepseek-R1.rar)
 
  
 

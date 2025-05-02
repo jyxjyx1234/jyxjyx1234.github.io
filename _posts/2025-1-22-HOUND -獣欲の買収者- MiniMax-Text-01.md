@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[HOUND MiniMax-Text-01.rar](../resources/HOUND MiniMax-Text-01.rar)
+[HOUND MiniMax-Text-01.rar](../../resources/HOUND MiniMax-Text-01.rar)
 
  
 

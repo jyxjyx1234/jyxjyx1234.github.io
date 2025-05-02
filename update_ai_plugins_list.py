@@ -49,7 +49,7 @@ categories: AI translation
         for i in data["urls"]:
             fn = i["name"]
             if not i["url"].startswith("http"):
-                u = "../" + i["url"]
+                u = "../../" + i["url"]
             else:
                 u = i["url"]
             game_md.write(f"[{fn}]({u})\n\n \n\n")

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[堕ちゆく教室 Deepseek-R1.rar](../resources/堕ちゆく教室 Deepseek-R1.rar)
+[堕ちゆく教室 Deepseek-R1.rar](../../resources/堕ちゆく教室 Deepseek-R1.rar)
 
  
 

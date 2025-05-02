@@ -14,7 +14,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[萌えッ娘ナース Deepseek-R1.rar](../resources/萌えッ娘ナース Deepseek-R1.rar)
+[萌えッ娘ナース Deepseek-R1.rar](../../resources/萌えッ娘ナース Deepseek-R1.rar)
 
  
 

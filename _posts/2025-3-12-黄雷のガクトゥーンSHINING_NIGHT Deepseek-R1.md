@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1.rar](../resources/黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1.rar)
+[黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1.rar](../../resources/黄雷のガクトゥーンSHINING_NIGHT Deepseek-R1.rar)
 
  
 

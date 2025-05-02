@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[FairChild gpt4o.rar](../resources/FairChild%20gpt4o.rar)
+[FairChild gpt4o.rar](../../resources/FairChild%20gpt4o.rar)
 
  
 

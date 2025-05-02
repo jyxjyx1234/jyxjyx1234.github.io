@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[DESIRE remaster a ver.Sakura.rar](../resources/DESIRE%20remaster%20a%20ver.Sakura.rar)
+[DESIRE remaster a ver.Sakura.rar](../../resources/DESIRE%20remaster%20a%20ver.Sakura.rar)
 
  
 

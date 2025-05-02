@@ -15,11 +15,11 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Natural Another One 2nd -Belladonna- deepseek机翻](../resources/Natural Another One 2nd -Belladonna- deepseek机翻.7z)
+[Natural Another One 2nd -Belladonna- deepseek机翻](../../resources/Natural Another One 2nd -Belladonna- deepseek机翻.7z)
 
  
 
-[Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻](../resources/Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻.7z)
+[Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻](../../resources/Natural Another One 2nd -Belladonna- claude-3.5-sonnet机翻.7z)
 
  
 

@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[牝犬発情記 Deepseek-R1.rar](../resources/牝犬発情記 Deepseek-R1.rar)
+[牝犬発情記 Deepseek-R1.rar](../../resources/牝犬発情記 Deepseek-R1.rar)
 
  
 

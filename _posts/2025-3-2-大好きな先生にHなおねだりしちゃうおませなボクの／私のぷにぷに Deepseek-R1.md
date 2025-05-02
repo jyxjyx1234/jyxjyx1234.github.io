@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1.rar](../resources/大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1.rar)
+[大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1.rar](../../resources/大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1.rar)
 
  
 

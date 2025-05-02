@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[先生っ！シてあげる Deepseek-R1.rar](../resources/先生っ！シてあげる Deepseek-R1.rar)
+[先生っ！シてあげる Deepseek-R1.rar](../../resources/先生っ！シてあげる Deepseek-R1.rar)
 
  
 

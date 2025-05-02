@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[魔法戦士エクストラステージ2 claude-3-5-sonnet.rar](../resources/魔法戦士エクストラステージ2 claude-3-5-sonnet.rar)
+[魔法戦士エクストラステージ2 claude-3-5-sonnet.rar](../../resources/魔法戦士エクストラステージ2 claude-3-5-sonnet.rar)
 
  
 

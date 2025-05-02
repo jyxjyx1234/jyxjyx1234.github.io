@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[僕以外の男を知らない彼女が他の男に抱かれていた Deepseek-R1.rar](../resources/僕以外の男を知らない彼女が他の男に抱かれていた Deepseek-R1.rar)
+[僕以外の男を知らない彼女が他の男に抱かれていた Deepseek-R1.rar](../../resources/僕以外の男を知らない彼女が他の男に抱かれていた Deepseek-R1.rar)
 
  
 

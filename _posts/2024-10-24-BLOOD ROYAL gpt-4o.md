@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[BLOOD ROYAL gpt-4o.rar](../resources/BLOOD%20ROYAL%20gpt-4o.rar)
+[BLOOD ROYAL gpt-4o.rar](../../resources/BLOOD%20ROYAL%20gpt-4o.rar)
 
  
 

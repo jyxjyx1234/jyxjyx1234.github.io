@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[魔法の歌姫クレシェンドメロディ Deepseek-R1.rar](../resources/魔法の歌姫クレシェンドメロディ Deepseek-R1.rar)
+[魔法の歌姫クレシェンドメロディ Deepseek-R1.rar](../../resources/魔法の歌姫クレシェンドメロディ Deepseek-R1.rar)
 
  
 

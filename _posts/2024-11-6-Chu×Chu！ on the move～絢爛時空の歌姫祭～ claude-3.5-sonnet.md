@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet.rar](../resources/Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet.rar)
+[Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet.rar](../../resources/Chu×Chu！ on the move～絢爛時空の歌姫祭～ claude-3.5-sonnet.rar)
 
  
 

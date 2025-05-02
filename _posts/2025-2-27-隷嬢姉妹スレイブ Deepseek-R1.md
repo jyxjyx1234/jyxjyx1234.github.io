@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[隷嬢姉妹スレイブ Deepseek-R1.rar](../resources/隷嬢姉妹スレイブ Deepseek-R1.rar)
+[隷嬢姉妹スレイブ Deepseek-R1.rar](../../resources/隷嬢姉妹スレイブ Deepseek-R1.rar)
 
  
 

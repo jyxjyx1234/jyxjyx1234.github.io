@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[TRUE BLUE claude-3-5-sonnet.rar](../resources/TRUE%20BLUE%20claude-3-5-sonnet.rar)
+[TRUE BLUE claude-3-5-sonnet.rar](../../resources/TRUE%20BLUE%20claude-3-5-sonnet.rar)
 
  
 

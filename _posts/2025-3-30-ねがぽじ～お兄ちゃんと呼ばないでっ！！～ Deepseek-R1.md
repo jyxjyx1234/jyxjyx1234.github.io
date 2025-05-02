@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](../resources/ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1.rar)
+[ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1](../../resources/ねがぽじ～お兄ちゃんと呼ばないでっ！！～ Deepseek-R1.rar)
 
  
 

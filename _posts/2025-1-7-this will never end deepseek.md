@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[this will never end deepseek机翻](../resources/this will never end deepseek.rar)
+[this will never end deepseek机翻](../../resources/this will never end deepseek.rar)
 
  
 

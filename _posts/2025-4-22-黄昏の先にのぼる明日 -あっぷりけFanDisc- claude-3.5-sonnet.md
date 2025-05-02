@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet.rar](../resources/黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet.rar)
+[黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet.rar](../../resources/黄昏の先にのぼる明日 -あっぷりけFanDisc- claude-3.5-sonnet.rar)
 
  
 

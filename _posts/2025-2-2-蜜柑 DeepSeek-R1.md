@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[蜜柑 DeepSeek-R1.rar](../resources/蜜柑 DeepSeek-R1.rar)
+[蜜柑 DeepSeek-R1.rar](../../resources/蜜柑 DeepSeek-R1.rar)
 
  
 

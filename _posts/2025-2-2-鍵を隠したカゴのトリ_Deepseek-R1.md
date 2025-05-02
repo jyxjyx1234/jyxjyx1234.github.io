@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[鍵を隠したカゴのトリ_Deepseek-R1.rar](../resources/鍵を隠したカゴのトリ_Deepseek-R1.rar)
+[鍵を隠したカゴのトリ_Deepseek-R1.rar](../../resources/鍵を隠したカゴのトリ_Deepseek-R1.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Color of White claude-3-5-sonnet.rar](../resources/Color%20of%20White%20claude-3-5-sonnet.rar)
+[Color of White claude-3-5-sonnet.rar](../../resources/Color%20of%20White%20claude-3-5-sonnet.rar)
 
  
 

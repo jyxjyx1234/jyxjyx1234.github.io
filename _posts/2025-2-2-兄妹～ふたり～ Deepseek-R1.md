@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[兄妹～ふたり～ Deepseek-R1.rar](../resources/兄妹～ふたり～ Deepseek-R1.rar)
+[兄妹～ふたり～ Deepseek-R1.rar](../../resources/兄妹～ふたり～ Deepseek-R1.rar)
 
  
 

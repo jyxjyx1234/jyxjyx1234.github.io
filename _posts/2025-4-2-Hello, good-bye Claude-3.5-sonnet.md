@@ -14,7 +14,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Hello, good-bye Claude-3.5-sonnet](../resources/Hello, good-bye Claude-3.5-sonnet.rar)
+[Hello, good-bye Claude-3.5-sonnet](../../resources/Hello, good-bye Claude-3.5-sonnet.rar)
 
  
 

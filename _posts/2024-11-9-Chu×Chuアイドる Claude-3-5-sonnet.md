@@ -15,7 +15,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Chu×Chuアイドる Claude-3-5-sonnet.rar](../resources/Chu×Chuアイドる Claude-3-5-sonnet.rar)
+[Chu×Chuアイドる Claude-3-5-sonnet.rar](../../resources/Chu×Chuアイドる Claude-3-5-sonnet.rar)
 
  
 

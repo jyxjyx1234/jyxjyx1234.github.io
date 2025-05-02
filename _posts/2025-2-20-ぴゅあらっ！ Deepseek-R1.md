@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[ぴゅあらっ！ Deepseek-R1.rar](../resources/ぴゅあらっ！ Deepseek-R1.rar)
+[ぴゅあらっ！ Deepseek-R1.rar](../../resources/ぴゅあらっ！ Deepseek-R1.rar)
 
  
 

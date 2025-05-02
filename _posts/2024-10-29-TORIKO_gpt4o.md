@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[TORIKO_gpt4o.rar](../resources/TORIKO_gpt4o.rar)
+[TORIKO_gpt4o.rar](../../resources/TORIKO_gpt4o.rar)
 
  
 

@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[にぃなのエロ曜日 Deepseek-R1.rar](../resources/にぃなのエロ曜日 Deepseek-R1.rar)
+[にぃなのエロ曜日 Deepseek-R1.rar](../../resources/にぃなのエロ曜日 Deepseek-R1.rar)
 
  
 

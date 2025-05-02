@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[カスタム隷奴F QWEN-MAX.rar](../resources/カスタム隷奴F QWEN-MAX.rar)
+[カスタム隷奴F QWEN-MAX.rar](../../resources/カスタム隷奴F QWEN-MAX.rar)
 
  
 

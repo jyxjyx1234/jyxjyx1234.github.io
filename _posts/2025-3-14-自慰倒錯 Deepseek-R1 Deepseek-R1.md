@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[自慰倒錯 Deepseek-R1.rar](../resources/自慰倒錯 Deepseek-R1.rar)
+[自慰倒錯 Deepseek-R1.rar](../../resources/自慰倒錯 Deepseek-R1.rar)
 
  
 

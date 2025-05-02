@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[ナイショのよりみち Deepseek-R1.rar](../resources/ナイショのよりみち Deepseek-R1.rar)
+[ナイショのよりみち Deepseek-R1.rar](../../resources/ナイショのよりみち Deepseek-R1.rar)
 
  
 

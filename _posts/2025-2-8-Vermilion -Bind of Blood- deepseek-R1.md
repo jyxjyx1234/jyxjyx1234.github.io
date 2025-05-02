@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Vermilion -Bind of Blood- deepseek-R1.rar](../resources/Vermilion -Bind of Blood- deepseek-R1.rar)
+[Vermilion -Bind of Blood- deepseek-R1.rar](../../resources/Vermilion -Bind of Blood- deepseek-R1.rar)
 
  
 

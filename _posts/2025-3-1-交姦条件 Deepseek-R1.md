@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[交姦条件 Deepseek-R1.rar](../resources/交姦条件 Deepseek-R1.rar)
+[交姦条件 Deepseek-R1.rar](../../resources/交姦条件 Deepseek-R1.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet.rar](../resources/魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet.rar)
+[魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet.rar](../../resources/魔法戦士エクストラステージ 〜10th Anniversary〜 claude-3.5-sonnnet.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[双性の姫君 Deepseek-R1.rar](../resources/双性の姫君 Deepseek-R1.rar)
+[双性の姫君 Deepseek-R1.rar](../../resources/双性の姫君 Deepseek-R1.rar)
 
  
 

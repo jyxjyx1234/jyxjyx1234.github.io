@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[来てね！魔法戦士の学園祭 claude-3-5-sonnet.rar](../resources/来てね！魔法戦士の学園祭 claude-3-5-sonnet.rar)
+[来てね！魔法戦士の学園祭 claude-3-5-sonnet.rar](../../resources/来てね！魔法戦士の学園祭 claude-3-5-sonnet.rar)
 
  
 

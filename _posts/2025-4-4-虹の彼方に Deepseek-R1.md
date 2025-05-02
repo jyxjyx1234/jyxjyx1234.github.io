@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[虹の彼方に Deepseek-R1](../resources/虹の彼方に Deepseek-R1.rar)
+[虹の彼方に Deepseek-R1](../../resources/虹の彼方に Deepseek-R1.rar)
 
  
 

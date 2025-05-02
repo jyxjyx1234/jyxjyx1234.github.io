@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[サノバ ビッチ Deepseek-R1.rar](../resources/サノバ ビッチ Deepseek-R1.rar)
+[サノバ ビッチ Deepseek-R1.rar](../../resources/サノバ ビッチ Deepseek-R1.rar)
 
  
 

@@ -15,7 +15,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[innocence pain～満ちる闇　欠ける月～deepseek](../resources/innocence pain～満ちる闇　欠ける月～deepseek.rar)
+[innocence pain～満ちる闇　欠ける月～deepseek](../../resources/innocence pain～満ちる闇　欠ける月～deepseek.rar)
 
  
 

@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[恋する乙女のお仕置き授業 Deepseek-R1.rar](../resources/恋する乙女のお仕置き授業 Deepseek-R1.rar)
+[恋する乙女のお仕置き授業 Deepseek-R1.rar](../../resources/恋する乙女のお仕置き授業 Deepseek-R1.rar)
 
  
 

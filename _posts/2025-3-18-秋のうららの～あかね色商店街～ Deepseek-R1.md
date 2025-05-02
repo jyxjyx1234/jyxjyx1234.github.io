@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[秋のうららの～あかね色商店街～ Deepseek-R1.rar](../resources/秋のうららの～あかね色商店街～ Deepseek-R1.rar)
+[秋のうららの～あかね色商店街～ Deepseek-R1.rar](../../resources/秋のうららの～あかね色商店街～ Deepseek-R1.rar)
 
  
 

@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[中二病な彼女の恋愛方程式 Deepseek-R1.rar](../resources/中二病な彼女の恋愛方程式 Deepseek-R1.rar)
+[中二病な彼女の恋愛方程式 Deepseek-R1.rar](../../resources/中二病な彼女の恋愛方程式 Deepseek-R1.rar)
 
  
 

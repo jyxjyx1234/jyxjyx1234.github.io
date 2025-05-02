@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[真・燐月 deepseek-r1.rar](../resources/真・燐月 deepseek-r1.rar)
+[真・燐月 deepseek-r1.rar](../../resources/真・燐月 deepseek-r1.rar)
 
  
 

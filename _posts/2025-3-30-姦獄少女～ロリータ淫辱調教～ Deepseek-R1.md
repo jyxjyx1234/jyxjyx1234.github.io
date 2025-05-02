@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[姦獄少女～ロリータ淫辱調教～ Deepseek-R1.rar](../resources/姦獄少女～ロリータ淫辱調教～ Deepseek-R1.rar)
+[姦獄少女～ロリータ淫辱調教～ Deepseek-R1.rar](../../resources/姦獄少女～ロリータ淫辱調教～ Deepseek-R1.rar)
 
  
 

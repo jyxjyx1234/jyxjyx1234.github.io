@@ -13,7 +13,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar](../resources/Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar)
+[Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar](../../resources/Chu×Chuぱらだいす~Encore Live~ claude-3-5-sonnet.rar)
 
  
 
