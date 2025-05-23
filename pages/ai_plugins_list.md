@@ -255,7 +255,7 @@ permalink: /all_plugins/
 
  
 
-## [ハプニングLOVE!! claude-3.7-sonnet](/games/123)
+## [ハプニングLOVE!! claude-3.7-sonnet](/games/146)
 
  
 

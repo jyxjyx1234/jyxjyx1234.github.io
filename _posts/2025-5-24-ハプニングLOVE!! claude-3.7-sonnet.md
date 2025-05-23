@@ -1,8 +1,8 @@
 ---
 title: ハプニングLOVE!! claude-3.7-sonnet 机翻补丁
 layout: post
-permalink: /games/123/
-date: 2025-5-24 04:00:26 +0800
+permalink: /games/146/
+date: 2025-5-24 04:05:11 +0800
 categories: AI translation
 ---
 
