@@ -219,6 +219,10 @@ permalink: /all_plugins/
 
  
 
+## [エル(EL) claude-3.7-sonnet](/games/148)
+
+ 
+
 ## [オトメ世界の歩き方 claude-3-oups](/games/69)
 
  
@@ -388,6 +392,10 @@ permalink: /all_plugins/
  
 
 ## [恋もも claude-3.5-sonnet](/games/79)
+
+ 
+
+## [愛姉妹 ～二人の果実～ claude-3.7-sonnet](/games/149)
 
  
 
