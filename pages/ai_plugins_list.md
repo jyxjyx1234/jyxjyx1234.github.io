@@ -463,6 +463,10 @@ permalink: /all_plugins/
 
  
 
+## [神様ちゅ～ず！ センセー女の子似合ってるよっ！ claude-3.7-sonnet](/games/151)
+
+ 
+
 ## [秋のうららの～あかね色商店街～ Deepseek-R1](/games/131)
 
  
