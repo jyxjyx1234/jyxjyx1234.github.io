@@ -403,6 +403,10 @@ permalink: /all_plugins/
 
  
 
+## [新・御神楽少女探偵団 claude-3.7-sonnet](/games/150)
+
+ 
+
 ## [新・白銀のソレイユ -ReANSWER-claude-3-haiku](/games/38)
 
  
