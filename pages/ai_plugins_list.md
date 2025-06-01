@@ -371,6 +371,10 @@ permalink: /all_plugins/
 
  
 
+## [学☆王 -THE ROYAL SEVEN STARS- claude-3.7-sonnet](/games/154)
+
+ 
+
 ## [家出少女調教通学 Deepseek-R1](/games/119)
 
  
