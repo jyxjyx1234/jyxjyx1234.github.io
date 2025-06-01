@@ -2,7 +2,7 @@
 title: 学☆王 -THE ROYAL SEVEN STARS- claude-3.7-sonnet 机翻补丁
 layout: post
 permalink: /games/154/
-date: 2025-6-1 21:36:51 +0800
+date: 2025-6-2 00:06:13 +0800
 categories: AI translation
 ---
 
