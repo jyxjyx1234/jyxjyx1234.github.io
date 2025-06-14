@@ -455,7 +455,7 @@ permalink: /all_plugins/
 
  
 
-## [汚された夏 claude-3.7-sonnet](/games/158)
+## [汚された夏（重制版） claude-3.7-sonnet](/games/158)
 
  
 
@@ -467,7 +467,7 @@ permalink: /all_plugins/
 
  
 
-## [町ぐるみの罠 ～白濁にまみれた肢体～ claude-3.7-sonnet](/games/159)
+## [町ぐるみの罠 ～白濁にまみれた肢体～（重制版） claude-3.7-sonnet](/games/159)
 
  
 
