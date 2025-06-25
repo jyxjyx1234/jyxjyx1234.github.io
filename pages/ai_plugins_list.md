@@ -351,6 +351,10 @@ permalink: /all_plugins/
 
  
 
+## [夢剣-Sword of the Dimacreation- claude-3.7-sonnet](/games/163)
+
+ 
+
 ## [大好きな先生にHなおねだりしちゃうおませなボクの／私のぷにぷに Deepseek-R1](/games/125)
 
  
@@ -584,6 +588,10 @@ permalink: /all_plugins/
  
 
 ## [隷嬢姉妹スレイブ Deepseek-R1](/games/121)
+
+ 
+
+## [雨に歌う譚詩曲 claude-neptune-v2](/games/162)
 
  
 
