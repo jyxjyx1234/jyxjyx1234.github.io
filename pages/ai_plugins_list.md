@@ -259,6 +259,10 @@ permalink: /all_plugins/
 
  
 
+## [センチネル HDリマスター claude-3.7-sonnet](/games/165)
+
+ 
+
 ## [ナイショのよりみち Deepseek-R1](/games/123)
 
  
