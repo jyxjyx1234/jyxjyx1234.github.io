@@ -2,7 +2,7 @@
 title: センチネル HDリマスター claude-3.7-sonnet 机翻补丁
 layout: post
 permalink: /games/165/
-date: 2025-7-7 17:51:38 +0800
+date: 2025-7-8 01:29:05 +0800
 categories: AI translation
 ---
 
