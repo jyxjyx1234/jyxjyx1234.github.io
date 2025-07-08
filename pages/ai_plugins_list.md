@@ -187,6 +187,10 @@ permalink: /all_plugins/
 
  
 
+## [ぽちとご主人様 claude-3.7-sonnet](/games/166)
+
+ 
+
 ## [まじかる☆ちぇんじ はるなちゃん Deepseek-R1](/games/120)
 
  
