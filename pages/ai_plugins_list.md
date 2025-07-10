@@ -91,6 +91,10 @@ permalink: /all_plugins/
 
  
 
+## [SPOTLIGHT ～羨望と欲望の狭間～ claude-3.7-sonnet](/games/167)
+
+ 
+
 ## [this will never end deepseek](/games/89)
 
  

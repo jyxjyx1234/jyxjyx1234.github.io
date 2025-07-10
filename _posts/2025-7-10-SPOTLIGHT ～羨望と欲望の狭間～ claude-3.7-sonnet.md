@@ -1,20 +1,19 @@
 ---
-title: ぽちとご主人様 claude-3.7-sonnet 机翻补丁
+title: SPOTLIGHT ～羨望と欲望の狭間～ claude-3.7-sonnet 机翻补丁
 layout: post
-permalink: /games/166/
-date: 2025-7-10 00:50:56 +0800
+permalink: /games/167/
+date: 2025-7-10 13:40:31 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-- 20250709 修正了部分翻译；添加了部分图片选项的翻译。
-- 20250710 修正了部分翻译；修正了部分图片选项的错误；修正了部分符号的显示乱码。。
+
 
 ## 补丁文件：
 
-[ぽちとご主人様 claude-3.7-sonnet.rar](../../resources/ぽちとご主人様 claude-3.7-sonnet.rar)
+[SPOTLIGHT ～羨望と欲望の狭間～ claude-3.7-sonnet.rar](../../resources/SPOTLIGHT ～羨望と欲望の狭間～ claude-3.7-sonnet.rar)
 
  
 
