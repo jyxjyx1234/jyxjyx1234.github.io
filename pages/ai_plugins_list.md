@@ -127,6 +127,10 @@ permalink: /all_plugins/
 
  
 
+## [[RJ01325238]リリアの夜のおでかけ日記 Claude-3.7-sonnet](/games/169)
+
+ 
+
 ## [あやかし遊郭～花魁道中～claude-3.5-sonnet](/games/73)
 
  
