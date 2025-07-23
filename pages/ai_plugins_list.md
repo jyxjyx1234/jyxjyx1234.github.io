@@ -495,6 +495,10 @@ permalink: /all_plugins/
 
  
 
+## [淫虜日記～少女は如何に壊れたか～ Claude-3.7-sonnet](/games/172)
+
+ 
+
 ## [牝犬発情記 Deepseek-R1](/games/130)
 
  
@@ -584,6 +588,10 @@ permalink: /all_plugins/
  
 
 ## [転性魔王さまは勇者に勝てない！ claude-3.5-sonnet](/games/80)
+
+ 
+
+## [連鎖病棟 Claude-3.7-sonnet](/games/171)
 
  
 
