@@ -2,14 +2,14 @@
 title: スターライトBLUE gemini-2.5-pro 机翻补丁
 layout: post
 permalink: /games/179/
-date: 2025-8-29 19:18:06 +0800
+date: 2025-8-29 20:20:00 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-
+- 20250829 修正了部分译文。
 
 ## 补丁文件：
 
