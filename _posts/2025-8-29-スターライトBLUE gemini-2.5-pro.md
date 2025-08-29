@@ -2,7 +2,7 @@
 title: スターライトBLUE gemini-2.5-pro 机翻补丁
 layout: post
 permalink: /games/179/
-date: 2025-8-29 20:57:41 +0800
+date: 2025-8-29 22:33:19 +0800
 categories: AI translation
 ---
 
