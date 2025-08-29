@@ -279,6 +279,10 @@ permalink: /all_plugins/
 
  
 
+## [スターライトBLUE gemini-2.5-pro](/games/179)
+
+ 
+
 ## [センチネル HDリマスター claude-3.7-sonnet](/games/165)
 
  
