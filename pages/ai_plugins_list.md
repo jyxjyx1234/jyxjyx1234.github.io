@@ -67,6 +67,10 @@ permalink: /all_plugins/
 
  
 
+## [LOOPERS PLUS gemini-2.5-pro](/games/181)
+
+ 
+
 ## [Natural Another One 2nd -Belladonna- deepseek](/games/87)
 
  
