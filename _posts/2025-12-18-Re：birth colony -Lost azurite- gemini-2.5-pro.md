@@ -2,14 +2,14 @@
 title: Re：birth colony -Lost azurite- gemini-2.5-pro 机翻补丁
 layout: post
 permalink: /games/183/
-date: 2025-12-18 03:33:06 +0800
+date: 2025-12-18 13:46:43 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-- 20251128 修复gemini发癫混进去的韩文字符
+- 20251218 修复初次启动时的一些错误
 
 ## 补丁文件：
 
