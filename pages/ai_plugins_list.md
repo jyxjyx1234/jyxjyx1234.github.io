@@ -295,6 +295,10 @@ permalink: /all_plugins/
 
  
 
+## [ドーターメーカー2 Cluade-3.7-sonnet](/games/184)
+
+ 
+
 ## [ナイショのよりみち Deepseek-R1](/games/123)
 
  
@@ -420,6 +424,10 @@ permalink: /all_plugins/
  
 
 ## [妹と職業体験 Claude-3-5-sonnet ](/games/50)
+
+ 
+
+## [妹はナマイキ褐色メイドさん。～わからせセックス～ Cluade-3.7-sonnet](/games/185)
 
  
 
