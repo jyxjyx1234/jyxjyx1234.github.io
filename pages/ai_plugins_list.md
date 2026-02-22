@@ -83,7 +83,7 @@ permalink: /all_plugins/
 
  
 
-## [Primary ～Magical★Trouble★Scramble～Claude-3-haiku](/games/33)
+## [Primary ～Magical★Trouble★Scramble～Gemini-3-pro](/games/33)
 
  
 
