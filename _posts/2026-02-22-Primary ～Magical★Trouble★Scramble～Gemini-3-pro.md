@@ -1,8 +1,8 @@
 ---
-title: Primary ～Magical★Trouble★Scramble～Claude-3-haiku 机翻补丁
+title: Primary ～Magical★Trouble★Scramble～Gemini-3-pro 机翻补丁
 layout: post
 permalink: /games/33/
-date: 2024-08-05 22:54:02 +0800
+date: 2026-02-22 19:54:02 +0800
 categories: AI translation
 ---
 
@@ -11,7 +11,7 @@ categories: AI translation
 
 ## 补丁文件：
 
-[Primary ～Magical★Trouble★Scramble～Claude-3-haiku.rar](../../resources/Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EClaude-3-haiku.rar)
+[Primary ～Magical★Trouble★Scramble～Gemini-3-pro.rar](../../resources/Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EGemini-3-pro.rar)
 
  
 
