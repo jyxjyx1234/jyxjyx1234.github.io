@@ -83,7 +83,7 @@ permalink: /all_plugins/
 
  
 
-## [Primary ～Magical★Trouble★Scramble～Gemini-3-pro](/games/33)
+## [Primary ～Magical★Trouble★Scramble～gemini-3-pro](/games/33)
 
  
 
@@ -303,6 +303,10 @@ permalink: /all_plugins/
 
  
 
+## [ノスフェラトゥのオモチャ☆彡 Gemini-3-pro](/games/186)
+
+ 
+
 ## [ハプニングLOVE!! claude-3.7-sonnet](/games/146)
 
  
@@ -324,6 +328,10 @@ permalink: /all_plugins/
  
 
 ## [ヤンデレイン claude-3.5-sonnet](/games/91)
+
+ 
+
+## [ロスト・エコーズ Claude-3.5-sonnet](/games/187)
 
  
 
