@@ -2,7 +2,7 @@
 title: encore! gemini-3-pro 机翻补丁
 layout: post
 permalink: /games/188/
-date: 2026-3-20 13:06:26 +0800
+date: 2026-3-20 13:28:22 +0800
 categories: AI translation
 ---
 
