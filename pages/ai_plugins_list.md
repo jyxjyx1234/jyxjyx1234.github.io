@@ -43,6 +43,10 @@ permalink: /all_plugins/
 
  
 
+## [encore! gemini-3-pro](/games/188)
+
+ 
+
 ## [FairChild gpt4o](/games/60)
 
  
