@@ -2,14 +2,14 @@
 title: encore! gemini-3-pro 机翻补丁
 layout: post
 permalink: /games/188/
-date: 2026-3-20 13:28:22 +0800
+date: 2026-3-21 01:32:19 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-
+- 20260321 修复部分脚本中的格式错误。
 
 ## 补丁文件：
 
