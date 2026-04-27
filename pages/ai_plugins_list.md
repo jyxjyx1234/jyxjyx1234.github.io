@@ -3,6 +3,10 @@ layout: page
 title: "补丁文件列表"
 permalink: /all_plugins/
 ---
+## [anemoi gemini-3.1-pro](/games/193)
+
+ 
+
 ## [Angel Wish～放課後の召使いにチュッ！～ gpt3.5](/games/1)
 
  
@@ -455,6 +459,10 @@ permalink: /all_plugins/
 
  
 
+## [姫と艶欲のインペリウム gemini-3.1-pro](/games/191)
+
+ 
+
 ## [姫巫女gpt4o_2.7z](/games/58)
 
  
@@ -692,6 +700,10 @@ permalink: /all_plugins/
  
 
 ## [隷嬢姉妹スレイブ Deepseek-R1](/games/121)
+
+ 
+
+## [隷従の聖侍祭 deepseek-v4-pro](/games/192)
 
  
 
