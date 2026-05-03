@@ -2,7 +2,7 @@
 title: anemoi gemini-3.1-pro 机翻补丁
 layout: post
 permalink: /games/193/
-date: 2026-4-27 21:05:28 +0800
+date: 2026-5-4 00:45:39 +0800
 categories: AI translation
 ---
 
