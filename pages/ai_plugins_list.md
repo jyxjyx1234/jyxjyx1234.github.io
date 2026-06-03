@@ -239,7 +239,7 @@ permalink: /all_plugins/
 
  
 
-## [らぶらぼ～調教なんて興味のなかった俺と彼女の放課後SMラボラトリー～Sakura](/games/9)
+## [らぶらぼ～調教なんて興味のなかった俺と彼女の放課後SMラボラトリー～ Claude-3.7-sonnet](/games/195)
 
  
 
