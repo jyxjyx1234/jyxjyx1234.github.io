@@ -735,6 +735,10 @@ permalink: /all_plugins/
 
  
 
+## [青少年薬物妄想殺人事件 Claude-4.6-opus](/games/196)
+
+ 
+
 ## [魔法の守護姫アルテミナsakura-14b](/games/15)
 
  
