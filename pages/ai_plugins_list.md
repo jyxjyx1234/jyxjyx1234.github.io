@@ -351,6 +351,10 @@ permalink: /all_plugins/
 
  
 
+## [ヴァンパイアクルセイダーズ Claude-4.6-opus](/games/198)
+
+ 
+
 ## [中二病な彼女の恋愛方程式 Deepseek-R1](/games/129)
 
  
