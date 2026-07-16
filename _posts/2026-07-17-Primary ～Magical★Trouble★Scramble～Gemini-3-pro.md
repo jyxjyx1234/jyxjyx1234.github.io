@@ -2,12 +2,14 @@
 title: Primary ～Magical★Trouble★Scramble～Gemini-3-pro 机翻补丁
 layout: post
 permalink: /games/33/
-date: 2026-03-12 16:54:02 +0800
+date: 2026-07-17 00:38:02 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
+
+- 20260717 修复了一个导致闪退的问题。
 
 ## 补丁文件：
 

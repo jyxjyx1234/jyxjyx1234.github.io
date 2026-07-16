@@ -6,6 +6,7 @@
             "url": "resources/Primary%20%EF%BD%9EMagical%E2%98%85Trouble%E2%98%85Scramble%EF%BD%9EGemini-3-pro.rar"
         }
     ],
-    "times": "2026-03-12 16:54:02",
+    "times": "2026-07-17 00:38:02",
+    "comment": "- 20260717 修复了一个导致闪退的问题。",
     "idx": 33
 }
