@@ -183,6 +183,10 @@ permalink: /all_plugins/
 
  
 
+## [とける風花とシロうさぎ gpt-5.6-sol](/games/199)
+
+ 
+
 ## [なつくもゆるる 姬佳追加场景补丁及Sakura32b翻译](/games/16)
 
  
@@ -344,6 +348,10 @@ permalink: /all_plugins/
  
 
 ## [ヤンデレイン claude-3.5-sonnet](/games/91)
+
+ 
+
+## [ユリアリス gpt-5.6-sol](/games/200)
 
  
 
