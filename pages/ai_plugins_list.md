@@ -455,6 +455,10 @@ permalink: /all_plugins/
 
  
 
+## [妹が俺のこと好きすぎる gpt-5.6-sol](/games/201)
+
+ 
+
 ## [妹が痔になったので座薬を入れてやった件Claude-3-5-sonnet](/games/42)
 
  
