@@ -239,6 +239,10 @@ permalink: /all_plugins/
 
  
 
+## [ゆめこい ～夢見る魔法少女と恋の呪文～ gpt-6.1-sol](/games/205)
+
+ 
+
 ## [よついろパッショナート！claude-3-haiku](/games/34)
 
  
@@ -348,6 +352,10 @@ permalink: /all_plugins/
  
 
 ## [プリズム・ハート step-2-16k](/games/55)
+
+ 
+
+## [ホームメイドスイートピー gpt-6.1-sol](/games/204)
 
  
 
