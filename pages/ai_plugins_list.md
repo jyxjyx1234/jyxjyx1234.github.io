@@ -239,6 +239,10 @@ permalink: /all_plugins/
 
  
 
+## [もののあはれは彩の頃。 gpt-6.1-sol](/games/206)
+
+ 
+
 ## [ゆめこい ～夢見る魔法少女と恋の呪文～ gpt-6.1-sol](/games/205)
 
  
