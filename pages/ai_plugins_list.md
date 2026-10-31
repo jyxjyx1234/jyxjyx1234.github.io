@@ -55,6 +55,10 @@ permalink: /all_plugins/
 
  
 
+## [FORTUNE×WORLD～僕らがゲームを作る理由～ gpt-6.1-sol](/games/207)
+
+ 
+
 ## [Guardian☆Place ～ドエスな妹と3人の嫁～claude-3-haiku](/games/32)
 
  
