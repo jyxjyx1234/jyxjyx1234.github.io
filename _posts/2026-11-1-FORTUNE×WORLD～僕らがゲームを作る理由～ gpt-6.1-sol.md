@@ -2,14 +2,14 @@
 title: FORTUNE×WORLD～僕らがゲームを作る理由～ gpt-6.1-sol 机翻补丁
 layout: post
 permalink: /games/207/
-date: 2026-10-31 21:17:29 +0800
+date: 2026-11-1 11:49:06 +0800
 categories: AI translation
 ---
 
 
 请务必阅读文件中的README.md中的使用说明。如有运行问题 or bug反馈，请使用页面下方的邮箱联系我。
 
-
+- 20261101 更新双语对照版
 
 ## 补丁文件：
 
