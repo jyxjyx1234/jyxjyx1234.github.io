@@ -2,7 +2,7 @@
 title: FORTUNE×WORLD～僕らがゲームを作る理由～ gpt-6.1-sol 机翻补丁
 layout: post
 permalink: /games/207/
-date: 2026-11-1 11:49:06 +0800
+date: 2026-11-1 12:08:11 +0800
 categories: AI translation
 ---
 
