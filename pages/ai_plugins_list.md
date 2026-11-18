@@ -179,6 +179,10 @@ permalink: /all_plugins/
 
  
 
+## [きらら★キララNTR 魔法少女は変わっていく… gpt-6.1-sol](/games/209)
+
+ 
+
 ## [こいなか -小田舎で初恋×中出しセクシャルライフ claude-3.7-sonnet](/games/140)
 
  
@@ -328,6 +332,10 @@ permalink: /all_plugins/
  
 
 ## [センチネル HDリマスター claude-3.7-sonnet](/games/165)
+
+ 
+
+## [タンテイセブン gpt-6.1-sol](/games/210)
 
  
 
